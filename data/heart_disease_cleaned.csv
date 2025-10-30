@@ -1,919 +1,919 @@
 age,sex,chestpaintype,restingbp,cholesterol,fastingbs,restingecg,maxhr,exerciseangina,oldpeak,st_slope,heartdisease
-40,male,Atypical Angina,140,289,normal,normal,172,no,0.0,Up,0
-49,female,Non-Anginal Pain,160,180,normal,normal,156,no,1.0,Flat,1
-37,male,Atypical Angina,130,283,normal,ST-abnormality,98,no,0.0,Up,0
-48,female,Asymptomatic,138,214,normal,normal,108,y,1.5,Flat,1
-54,male,Non-Anginal Pain,150,195,normal,normal,122,no,0.0,Up,0
-39,male,Non-Anginal Pain,120,339,normal,normal,170,no,0.0,Up,0
-45,female,Atypical Angina,130,237,normal,normal,170,no,0.0,Up,0
-54,male,Atypical Angina,110,208,normal,normal,142,no,0.0,Up,0
-37,male,Asymptomatic,140,207,normal,normal,130,y,1.5,Flat,1
-48,female,Atypical Angina,120,284,normal,normal,120,no,0.0,Up,0
-37,female,Non-Anginal Pain,130,211,normal,normal,142,no,0.0,Up,0
-58,male,Atypical Angina,136,164,normal,ST-abnormality,99,y,2.0,Flat,1
-39,male,Atypical Angina,120,204,normal,normal,145,no,0.0,Up,0
-49,male,Asymptomatic,140,234,normal,normal,140,y,1.0,Flat,1
-42,female,Non-Anginal Pain,115,211,normal,ST-abnormality,137,no,0.0,Up,0
-54,female,Atypical Angina,120,273,normal,normal,150,no,1.5,Flat,0
-38,male,Asymptomatic,110,196,normal,normal,166,no,0.0,Flat,1
-43,female,Atypical Angina,120,201,normal,normal,165,no,0.0,Up,0
-60,male,Asymptomatic,100,248,normal,normal,125,no,1.0,Flat,1
-36,male,Atypical Angina,120,267,normal,normal,160,no,3.0,Flat,1
-43,female,Typical Angina,100,223,normal,normal,142,no,0.0,Up,0
-44,male,Atypical Angina,120,184,normal,normal,142,no,1.0,Flat,0
-49,female,Atypical Angina,124,201,normal,normal,164,no,0.0,Up,0
-44,male,Atypical Angina,150,288,normal,normal,150,y,3.0,Flat,1
-40,male,Non-Anginal Pain,130,215,normal,normal,138,no,0.0,Up,0
-36,male,Non-Anginal Pain,130,209,normal,normal,178,no,0.0,Up,0
-53,male,Asymptomatic,124,260,normal,ST-abnormality,112,y,3.0,Flat,0
-52,male,Atypical Angina,120,284,normal,normal,118,no,0.0,Up,0
-53,female,Atypical Angina,113,468,normal,normal,127,no,0.0,Up,0
-51,male,Atypical Angina,125,188,normal,normal,145,no,0.0,Up,0
-53,male,Non-Anginal Pain,145,518,normal,normal,130,no,0.0,Flat,1
-56,male,Non-Anginal Pain,130,167,normal,normal,114,no,0.0,Up,0
-54,male,Asymptomatic,125,224,normal,normal,122,no,2.0,Flat,1
-41,male,Asymptomatic,130,172,normal,ST-abnormality,130,no,2.0,Flat,1
-43,female,Atypical Angina,150,186,normal,normal,154,no,0.0,Up,0
-32,male,Atypical Angina,125,254,normal,normal,155,no,0.0,Up,0
-65,male,Asymptomatic,140,306,high,normal,87,y,1.5,Flat,1
-41,female,Atypical Angina,110,250,normal,ST-abnormality,142,no,0.0,Up,0
-48,female,Atypical Angina,120,177,high,ST-abnormality,148,no,0.0,Up,0
-48,female,Asymptomatic,150,227,normal,normal,130,y,1.0,Flat,0
-54,female,Atypical Angina,150,230,normal,normal,130,no,0.0,Up,0
-54,female,Non-Anginal Pain,130,294,normal,ST-abnormality,100,y,0.0,Flat,1
-35,male,Atypical Angina,150,264,normal,normal,168,no,0.0,Up,0
-52,male,Non-Anginal Pain,140,259,normal,ST-abnormality,170,no,0.0,Up,0
-43,male,Asymptomatic,120,175,normal,normal,120,y,1.0,Flat,1
-59,male,Non-Anginal Pain,130,318,normal,normal,120,y,1.0,Flat,0
-37,male,Asymptomatic,120,223,normal,normal,168,no,0.0,Up,0
-50,male,Atypical Angina,140,216,normal,normal,170,no,0.0,Up,0
-36,male,Non-Anginal Pain,112,340,normal,normal,184,no,1.0,Flat,0
-41,male,Asymptomatic,110,289,normal,normal,170,no,0.0,Flat,1
-50,male,Asymptomatic,130,233,normal,normal,121,y,2.0,Flat,1
-47,female,Asymptomatic,120,205,normal,normal,98,y,2.0,Flat,1
-45,male,Atypical Angina,140,224,high,normal,122,no,0.0,Up,0
-41,female,Atypical Angina,130,245,normal,normal,150,no,0.0,Up,0
-52,female,Asymptomatic,130,180,normal,normal,140,y,1.5,Flat,0
-51,female,Atypical Angina,160,194,normal,normal,170,no,0.0,Up,0
-31,male,Asymptomatic,120,270,normal,normal,153,y,1.5,Flat,1
-58,male,Non-Anginal Pain,130,213,normal,ST-abnormality,140,no,0.0,Flat,1
-54,male,Asymptomatic,150,365,normal,ST-abnormality,134,no,1.0,Up,0
-52,male,Asymptomatic,112,342,normal,ST-abnormality,96,y,1.0,Flat,1
-49,male,Atypical Angina,100,253,normal,normal,174,no,0.0,Up,0
-43,female,Non-Anginal Pain,150,254,normal,normal,175,no,0.0,Up,0
-45,male,Asymptomatic,140,224,normal,normal,144,no,0.0,Up,0
-46,male,Asymptomatic,120,277,normal,normal,125,y,1.0,Flat,1
-50,female,Atypical Angina,110,202,normal,normal,145,no,0.0,Up,0
-37,female,Atypical Angina,120,260,normal,normal,130,no,0.0,Up,0
-45,female,Asymptomatic,132,297,normal,normal,144,no,0.0,Up,0
-32,male,Atypical Angina,110,225,normal,normal,184,no,0.0,Up,0
-52,male,Asymptomatic,160,246,normal,ST-abnormality,82,y,4.0,Flat,1
-44,male,Asymptomatic,150,412,normal,normal,170,no,0.0,Up,0
-57,male,Atypical Angina,140,265,normal,ST-abnormality,145,y,1.0,Flat,1
-44,male,Atypical Angina,130,215,normal,normal,135,no,0.0,Up,0
-52,male,Asymptomatic,120,182,normal,normal,150,no,0.0,Flat,1
-44,female,Asymptomatic,120,218,normal,ST-abnormality,115,no,0.0,Up,0
-55,male,Asymptomatic,140,268,normal,normal,128,y,1.5,Flat,1
-46,male,Non-Anginal Pain,150,163,normal,normal,116,no,0.0,Up,0
-32,male,Asymptomatic,118,529,normal,normal,130,no,0.0,Flat,1
-35,female,Asymptomatic,140,167,normal,normal,150,no,0.0,Up,0
-52,male,Atypical Angina,140,100,normal,normal,138,y,0.0,Up,0
-49,male,Asymptomatic,130,206,normal,normal,170,no,0.0,Flat,1
-55,male,Non-Anginal Pain,110,277,normal,normal,160,no,0.0,Up,0
-54,male,Atypical Angina,120,238,normal,normal,154,no,0.0,Up,0
-63,male,Asymptomatic,150,223,normal,normal,115,no,0.0,Flat,1
-52,male,Atypical Angina,160,196,normal,normal,165,no,0.0,Up,0
-56,male,Asymptomatic,150,213,high,normal,125,y,1.0,Flat,1
-66,male,Asymptomatic,140,139,normal,normal,94,y,1.0,Flat,1
-65,male,Asymptomatic,170,263,high,normal,112,y,2.0,Flat,1
-53,female,Atypical Angina,140,216,normal,normal,142,y,2.0,Flat,0
-43,male,Typical Angina,120,291,normal,ST-abnormality,155,no,0.0,Flat,1
-55,male,Asymptomatic,140,229,normal,normal,110,y,0.5,Flat,0
-49,female,Atypical Angina,110,208,normal,normal,160,no,0.0,Up,0
-39,male,Asymptomatic,130,307,normal,normal,140,no,0.0,Up,0
-52,female,Atypical Angina,120,210,normal,normal,148,no,0.0,Up,0
-48,male,Asymptomatic,160,329,normal,normal,92,y,1.5,Flat,1
-39,female,Non-Anginal Pain,110,182,normal,ST-abnormality,180,no,0.0,Up,0
-58,male,Asymptomatic,130,263,normal,normal,140,y,2.0,Flat,1
-43,male,Atypical Angina,142,207,normal,normal,138,no,0.0,Up,0
-39,male,Non-Anginal Pain,160,147,high,normal,160,no,0.0,Up,0
-56,male,Asymptomatic,120,85,normal,normal,140,no,0.0,Up,0
-41,male,Atypical Angina,125,269,normal,normal,144,no,0.0,Up,0
-65,male,Asymptomatic,130,275,normal,ST-abnormality,115,y,1.0,Flat,1
-51,male,Asymptomatic,130,179,normal,normal,100,no,0.0,Up,0
-40,female,Asymptomatic,150,392,normal,normal,130,no,2.0,Flat,1
-40,male,Asymptomatic,120,466,high,normal,152,y,1.0,Flat,1
-46,male,Asymptomatic,118,186,normal,normal,124,no,0.0,Flat,1
-57,male,Atypical Angina,140,260,high,normal,140,no,0.0,Up,0
-48,female,Asymptomatic,120,254,normal,ST-abnormality,110,no,0.0,Up,0
-34,male,Atypical Angina,150,214,normal,ST-abnormality,168,no,0.0,Up,0
-50,male,Asymptomatic,140,129,normal,normal,135,no,0.0,Up,0
-39,male,Atypical Angina,190,241,normal,normal,106,no,0.0,Up,0
-59,female,Atypical Angina,130,188,normal,normal,124,no,1.0,Flat,0
-57,male,Asymptomatic,150,255,normal,normal,92,y,3.0,Flat,1
-47,male,Asymptomatic,140,276,high,normal,125,y,0.0,Up,0
-38,male,Atypical Angina,140,297,normal,normal,150,no,0.0,Up,0
-49,female,Non-Anginal Pain,130,207,normal,ST-abnormality,135,no,0.0,Up,0
-33,female,Asymptomatic,100,246,normal,normal,150,y,1.0,Flat,1
-38,male,Asymptomatic,120,282,normal,normal,170,no,0.0,Flat,1
-59,female,Asymptomatic,130,338,high,ST-abnormality,130,y,1.5,Flat,1
-35,female,Typical Angina,120,160,normal,ST-abnormality,185,no,0.0,Up,0
-34,male,Typical Angina,140,156,normal,normal,180,no,0.0,Flat,1
-47,female,Non-Anginal Pain,135,248,high,normal,170,no,0.0,Flat,1
-52,female,Non-Anginal Pain,125,272,normal,normal,139,no,0.0,Up,0
-46,male,Asymptomatic,110,240,normal,ST-abnormality,140,no,0.0,Up,0
-58,female,Atypical Angina,180,393,normal,normal,110,y,1.0,Flat,1
-58,male,Atypical Angina,130,230,normal,normal,150,no,0.0,Up,0
-54,male,Atypical Angina,120,246,normal,normal,110,no,0.0,Up,0
-34,female,Atypical Angina,130,161,normal,normal,190,no,0.0,Up,0
-48,female,Asymptomatic,108,163,normal,normal,175,no,2.0,Up,0
-54,female,Atypical Angina,120,230,high,normal,140,no,0.0,Up,0
-42,male,Non-Anginal Pain,120,228,normal,normal,152,y,1.5,Flat,0
-38,male,Non-Anginal Pain,145,292,normal,normal,130,no,0.0,Up,0
-46,male,Asymptomatic,110,202,normal,normal,150,y,0.0,Flat,1
-56,male,Asymptomatic,170,388,normal,ST-abnormality,122,y,2.0,Flat,1
-56,male,Asymptomatic,150,230,normal,ST-abnormality,124,y,1.5,Flat,1
-61,female,Asymptomatic,130,294,normal,ST-abnormality,120,y,1.0,Flat,0
-49,male,Non-Anginal Pain,115,265,normal,normal,175,no,0.0,Flat,1
-43,female,Atypical Angina,120,215,normal,ST-abnormality,175,no,0.0,Up,0
-39,male,Atypical Angina,120,241,normal,ST-abnormality,146,no,2.0,Up,0
-54,male,Asymptomatic,140,166,normal,normal,118,y,0.0,Flat,1
-43,male,Asymptomatic,150,247,normal,normal,130,y,2.0,Flat,1
-52,male,Asymptomatic,160,331,normal,normal,94,y,2.5,Flat,1
-50,male,Asymptomatic,140,341,normal,ST-abnormality,125,y,2.5,Flat,1
-47,male,Asymptomatic,160,291,normal,ST-abnormality,158,y,3.0,Flat,1
-53,male,Asymptomatic,140,243,normal,normal,155,no,0.0,Up,0
-56,female,Atypical Angina,120,279,normal,normal,150,no,1.0,Flat,1
-39,male,Asymptomatic,110,273,normal,normal,132,no,0.0,Up,0
-42,male,Atypical Angina,120,198,normal,normal,155,no,0.0,Up,0
-43,female,Atypical Angina,120,249,normal,ST-abnormality,176,no,0.0,Up,0
-50,male,Atypical Angina,120,168,normal,normal,160,no,0.0,Up,0
-54,male,Asymptomatic,130,603,high,normal,125,y,1.0,Flat,1
-39,male,Atypical Angina,130,215,normal,normal,120,no,0.0,Up,0
-48,male,Atypical Angina,100,159,normal,normal,100,no,0.0,Up,0
-40,male,Atypical Angina,130,275,normal,normal,150,no,0.0,Up,0
-55,male,Asymptomatic,120,270,normal,normal,140,no,0.0,Up,0
-41,male,Atypical Angina,120,291,normal,ST-abnormality,160,no,0.0,Up,0
-56,male,Asymptomatic,155,342,high,normal,150,y,3.0,Flat,1
-38,male,Asymptomatic,110,190,normal,normal,150,y,1.0,Flat,1
-49,male,Asymptomatic,140,185,normal,normal,130,no,0.0,Up,0
-44,male,Asymptomatic,130,290,normal,normal,100,y,2.0,Flat,1
-54,male,Atypical Angina,160,195,normal,ST-abnormality,130,no,1.0,Up,0
-59,male,Asymptomatic,140,264,high,left ventricular hypertrophy,119,y,0.0,Flat,1
-49,male,Asymptomatic,128,212,normal,normal,96,y,0.0,Flat,1
-47,male,Atypical Angina,160,263,normal,normal,174,no,0.0,Up,0
-42,male,Atypical Angina,120,196,normal,normal,150,no,0.0,Up,0
-52,female,Atypical Angina,140,225,normal,normal,140,no,0.0,Up,0
-46,male,Typical Angina,140,272,high,normal,175,no,2.0,Flat,1
-50,male,Asymptomatic,140,231,normal,ST-abnormality,140,y,5.0,Flat,1
-48,male,Atypical Angina,140,238,normal,normal,118,no,0.0,Up,0
-58,male,Asymptomatic,135,222,normal,normal,100,no,0.0,Up,0
-58,male,Non-Anginal Pain,140,179,normal,normal,160,no,0.0,Up,0
-29,male,Atypical Angina,120,243,normal,normal,160,no,0.0,Up,0
-40,male,Non-Anginal Pain,140,235,normal,normal,188,no,0.0,Up,0
-53,male,Atypical Angina,140,320,normal,normal,162,no,0.0,Up,0
-49,male,Non-Anginal Pain,140,187,normal,normal,172,no,0.0,Up,0
-52,male,Asymptomatic,140,266,normal,normal,134,y,2.0,Flat,1
-43,male,Asymptomatic,140,288,normal,normal,135,y,2.0,Flat,1
-54,male,Asymptomatic,140,216,normal,normal,105,no,1.5,Flat,1
-59,male,Atypical Angina,140,287,normal,normal,150,no,0.0,Up,0
-37,male,Non-Anginal Pain,130,194,normal,normal,150,no,0.0,Up,0
-46,female,Asymptomatic,130,238,normal,normal,90,no,0.0,Up,0
-52,male,Asymptomatic,130,225,normal,normal,120,y,2.0,Flat,1
-51,male,Atypical Angina,130,224,normal,normal,150,no,0.0,Up,0
-52,male,Asymptomatic,140,404,normal,normal,124,y,2.0,Flat,1
-46,male,Asymptomatic,110,238,normal,ST-abnormality,140,y,1.0,Flat,0
-54,female,Atypical Angina,160,312,normal,normal,130,no,0.0,Up,0
-58,male,Non-Anginal Pain,160,211,high,ST-abnormality,92,no,0.0,Flat,1
-58,male,Atypical Angina,130,251,normal,normal,110,no,0.0,Up,0
-41,male,Asymptomatic,120,237,high,normal,138,y,1.0,Flat,1
-50,female,Asymptomatic,120,328,normal,normal,110,y,1.0,Flat,0
-53,male,Asymptomatic,180,285,normal,ST-abnormality,120,y,1.5,Flat,1
-46,male,Asymptomatic,180,280,normal,ST-abnormality,120,no,0.0,Up,0
-50,male,Atypical Angina,170,209,normal,ST-abnormality,116,no,0.0,Up,0
-48,male,Atypical Angina,130,245,normal,normal,160,no,0.0,Up,0
-45,male,Non-Anginal Pain,135,192,normal,normal,110,no,0.0,Up,0
-41,female,Atypical Angina,125,184,normal,normal,180,no,0.0,Up,0
-62,female,Typical Angina,160,193,normal,normal,116,no,0.0,Up,0
-49,male,Asymptomatic,120,297,normal,normal,132,no,1.0,Flat,0
-42,male,Atypical Angina,150,268,normal,normal,136,no,0.0,Up,0
-53,male,Asymptomatic,120,246,normal,normal,116,y,0.0,Flat,1
-57,female,Typical Angina,130,308,normal,normal,98,no,1.0,Flat,0
-47,male,Typical Angina,110,249,normal,normal,150,no,0.0,Up,0
-46,male,Non-Anginal Pain,120,230,normal,normal,150,no,0.0,Up,0
-42,male,Non-Anginal Pain,160,147,normal,normal,146,no,0.0,Up,0
-31,female,Atypical Angina,100,219,normal,ST-abnormality,150,no,0.0,Up,0
-56,male,Atypical Angina,130,184,normal,normal,100,no,0.0,Up,0
-50,male,Asymptomatic,150,215,normal,normal,140,y,0.0,Up,0
-35,male,Atypical Angina,120,308,normal,left ventricular hypertrophy,180,no,0.0,Up,0
-35,male,Atypical Angina,110,257,normal,normal,140,no,0.0,Flat,1
-28,male,Atypical Angina,130,132,normal,left ventricular hypertrophy,185,no,0.0,Up,0
-54,male,Asymptomatic,125,216,normal,normal,140,no,0.0,Flat,1
-48,male,Asymptomatic,106,263,high,normal,110,no,0.0,Flat,1
-50,female,Non-Anginal Pain,140,288,normal,normal,140,y,0.0,Flat,1
-56,male,Non-Anginal Pain,130,276,normal,normal,128,y,1.0,Up,0
-56,female,Non-Anginal Pain,130,219,normal,ST-abnormality,164,no,0.0,Up,0
-47,male,Asymptomatic,150,226,normal,normal,98,y,1.5,Flat,1
-30,female,Typical Angina,170,237,normal,ST-abnormality,170,no,0.0,Up,0
-39,male,Asymptomatic,110,280,normal,normal,150,no,0.0,Flat,1
-54,male,Non-Anginal Pain,120,217,normal,normal,137,no,0.0,Up,0
-55,male,Atypical Angina,140,196,normal,normal,150,no,0.0,Up,0
-29,male,Atypical Angina,140,263,normal,normal,170,no,0.0,Up,0
-46,male,Asymptomatic,130,222,normal,normal,112,no,0.0,Flat,1
-51,female,Asymptomatic,160,303,normal,normal,150,y,1.0,Flat,1
-48,female,Non-Anginal Pain,120,195,normal,normal,125,no,0.0,Up,0
-33,male,Non-Anginal Pain,120,298,normal,normal,185,no,0.0,Up,0
-55,male,Atypical Angina,120,256,high,normal,137,no,0.0,Up,0
-50,male,Asymptomatic,145,264,normal,normal,150,no,0.0,Flat,1
-53,male,Non-Anginal Pain,120,195,normal,normal,140,no,0.0,Up,0
-38,male,Asymptomatic,92,117,normal,normal,134,y,2.5,Flat,1
-41,male,Atypical Angina,120,295,normal,normal,170,no,0.0,Up,0
-37,female,Asymptomatic,130,173,normal,ST-abnormality,184,no,0.0,Up,0
-37,male,Asymptomatic,130,315,normal,normal,158,no,0.0,Up,0
-40,male,Non-Anginal Pain,130,281,normal,normal,167,no,0.0,Up,0
-38,female,Atypical Angina,120,275,normal,normal,129,no,0.0,Up,0
-41,male,Asymptomatic,112,250,normal,normal,142,no,0.0,Up,0
-54,female,Atypical Angina,140,309,normal,ST-abnormality,140,no,0.0,Up,0
-39,male,Atypical Angina,120,200,normal,normal,160,y,1.0,Flat,0
-41,male,Asymptomatic,120,336,normal,normal,118,y,3.0,Flat,1
-55,male,Typical Angina,140,295,normal,normal,136,no,0.0,Flat,1
-48,male,Asymptomatic,160,355,normal,normal,99,y,2.0,Flat,1
-48,male,Asymptomatic,160,193,normal,normal,102,y,3.0,Flat,1
-55,male,Atypical Angina,145,326,normal,normal,155,no,0.0,Up,0
-54,male,Asymptomatic,200,198,normal,normal,142,y,2.0,Flat,1
-55,male,Atypical Angina,160,292,high,normal,143,y,2.0,Flat,1
-43,female,Atypical Angina,120,266,normal,normal,118,no,0.0,Up,0
-48,male,Asymptomatic,160,268,normal,normal,103,y,1.0,Flat,1
-54,male,Typical Angina,120,171,normal,normal,137,no,2.0,Up,0
-54,male,Non-Anginal Pain,120,237,normal,normal,150,y,1.5,Flat,1
-48,male,Asymptomatic,122,275,high,ST-abnormality,150,y,2.0,Down,1
-45,male,Asymptomatic,130,219,normal,ST-abnormality,130,y,1.0,Flat,1
-49,male,Asymptomatic,130,341,normal,normal,120,y,1.0,Flat,1
-44,male,Asymptomatic,135,491,normal,normal,135,no,0.0,Flat,1
-48,male,Asymptomatic,120,260,normal,normal,115,no,2.0,Flat,1
-61,male,Asymptomatic,125,292,normal,ST-abnormality,115,y,0.0,Up,0
-62,male,Atypical Angina,140,271,normal,normal,152,no,1.0,Up,0
-55,male,Asymptomatic,145,248,normal,normal,96,y,2.0,Flat,1
-53,female,Non-Anginal Pain,120,274,normal,normal,130,no,0.0,Up,0
-55,female,Atypical Angina,130,394,normal,left ventricular hypertrophy,150,no,0.0,Up,0
-36,male,Non-Anginal Pain,150,160,normal,normal,172,no,0.0,Up,0
-51,female,Non-Anginal Pain,150,200,normal,normal,120,no,0.5,Up,0
-55,female,Atypical Angina,122,320,normal,normal,155,no,0.0,Up,0
-46,male,Atypical Angina,140,275,normal,normal,165,y,0.0,Up,0
-54,female,Atypical Angina,120,221,normal,normal,138,no,1.0,Up,0
-46,male,Asymptomatic,120,231,normal,normal,115,y,0.0,Flat,1
-59,male,Asymptomatic,130,126,normal,normal,125,no,0.0,Flat,1
-47,male,Non-Anginal Pain,140,193,normal,normal,145,y,1.0,Flat,1
-54,male,Atypical Angina,160,305,normal,normal,175,no,0.0,Up,0
-52,male,Asymptomatic,130,298,normal,normal,110,y,1.0,Flat,1
-34,male,Atypical Angina,98,220,normal,normal,150,no,0.0,Up,0
-54,male,Asymptomatic,130,242,normal,normal,91,y,1.0,Flat,1
-47,female,Non-Anginal Pain,130,235,normal,normal,145,no,2.0,Flat,0
-45,male,Asymptomatic,120,225,normal,normal,140,no,0.0,Up,0
-32,female,Atypical Angina,105,198,normal,normal,165,no,0.0,Up,0
-55,male,Asymptomatic,140,201,normal,normal,130,y,3.0,Flat,1
-55,male,Non-Anginal Pain,120,220,normal,left ventricular hypertrophy,134,no,0.0,Up,0
-45,female,Atypical Angina,180,295,normal,normal,180,no,0.0,Up,0
-59,male,Non-Anginal Pain,180,213,normal,normal,100,no,0.0,Up,0
-51,male,Non-Anginal Pain,135,160,normal,normal,150,no,2.0,Flat,1
-52,male,Asymptomatic,170,223,normal,normal,126,y,1.5,Flat,1
-57,female,Asymptomatic,180,347,normal,ST-abnormality,126,y,0.8,Flat,0
-54,female,Atypical Angina,130,253,normal,ST-abnormality,155,no,0.0,Up,0
-60,male,Non-Anginal Pain,120,246,normal,left ventricular hypertrophy,135,no,0.0,Up,0
-49,male,Asymptomatic,150,222,normal,normal,122,no,2.0,Flat,1
-51,female,Non-Anginal Pain,130,220,normal,normal,160,y,2.0,Up,0
-55,female,Atypical Angina,110,344,normal,ST-abnormality,160,no,0.0,Up,0
-42,male,Asymptomatic,140,358,normal,normal,170,no,0.0,Up,0
-51,female,Non-Anginal Pain,110,190,normal,normal,120,no,0.0,Up,0
-59,male,Asymptomatic,140,169,normal,normal,140,no,0.0,Up,0
-53,male,Atypical Angina,120,181,normal,normal,132,no,0.0,Up,0
-48,female,Atypical Angina,133,308,normal,ST-abnormality,156,no,2.0,Up,0
-36,male,Atypical Angina,120,166,normal,normal,180,no,0.0,Up,0
-48,male,Non-Anginal Pain,110,211,normal,normal,138,no,0.0,Up,0
-47,female,Atypical Angina,140,257,normal,normal,135,no,1.0,Up,0
-53,male,Asymptomatic,130,182,normal,normal,148,no,0.0,Up,0
-65,male,Asymptomatic,115,0,normal,normal,93,y,0.0,Flat,1
-32,male,Typical Angina,95,0,high,normal,127,no,0.7,Up,1
-61,male,Asymptomatic,105,0,high,normal,110,y,1.5,Up,1
-50,male,Asymptomatic,145,0,high,normal,139,y,0.7,Flat,1
-57,male,Asymptomatic,110,0,high,ST-abnormality,131,y,1.4,Up,1
-51,male,Asymptomatic,110,0,high,normal,92,no,0.0,Flat,1
-47,male,Asymptomatic,110,0,high,ST-abnormality,149,no,2.1,Up,1
-60,male,Asymptomatic,160,0,high,normal,149,no,0.4,Flat,1
-55,male,Atypical Angina,140,0,normal,ST-abnormality,150,no,0.2,Up,0
-53,male,Asymptomatic,125,0,high,normal,120,no,1.5,Up,1
-62,female,Asymptomatic,120,0,high,ST-abnormality,123,y,1.7,Down,1
-51,male,Asymptomatic,95,0,high,normal,126,no,2.2,Flat,1
-51,female,Asymptomatic,120,0,high,normal,127,y,1.5,Up,1
-55,male,Asymptomatic,115,0,high,normal,155,no,0.1,Flat,1
-53,male,Atypical Angina,130,0,normal,ST-abnormality,120,no,0.7,Down,0
-58,male,Asymptomatic,115,0,high,normal,138,no,0.5,Up,1
-57,male,Asymptomatic,95,0,high,normal,182,no,0.7,Down,1
-65,male,Asymptomatic,155,0,normal,normal,154,no,1.0,Up,0
-60,male,Asymptomatic,125,0,high,normal,110,no,0.1,Up,1
-41,male,Asymptomatic,125,0,high,normal,176,no,1.6,Up,1
-34,male,Asymptomatic,115,0,high,normal,154,no,0.2,Up,1
-53,male,Asymptomatic,80,0,normal,normal,141,y,2.0,Down,0
-74,male,Atypical Angina,145,0,high,ST-abnormality,123,no,1.3,Up,1
-57,male,Non-Anginal Pain,105,0,high,normal,148,no,0.3,Flat,1
-56,male,Asymptomatic,140,0,high,normal,121,y,1.8,Up,1
-61,male,Asymptomatic,130,0,high,normal,77,no,2.5,Flat,1
-68,male,Asymptomatic,145,0,high,normal,136,no,1.8,Up,1
-59,male,Non-Anginal Pain,125,0,high,normal,175,no,2.6,Flat,1
-63,male,Asymptomatic,100,0,high,normal,109,no,-0.9,Flat,1
-38,female,Asymptomatic,105,0,high,normal,166,no,2.8,Up,1
-62,male,Asymptomatic,115,0,high,normal,128,y,2.5,Down,1
-46,male,Asymptomatic,100,0,high,ST-abnormality,133,no,-2.6,Flat,1
-42,male,Asymptomatic,105,0,high,normal,128,y,-1.5,Down,1
-45,male,Non-Anginal Pain,110,0,normal,normal,138,no,-0.1,Up,0
-59,male,Asymptomatic,125,0,high,normal,119,y,0.9,Up,1
-52,male,Asymptomatic,95,0,high,normal,82,y,0.8,Flat,1
-60,male,Asymptomatic,130,0,high,ST-abnormality,130,y,1.1,Down,1
-60,male,Non-Anginal Pain,115,0,high,normal,143,no,2.4,Up,1
-56,male,Asymptomatic,115,0,high,ST-abnormality,82,no,-1.0,Up,1
-38,male,Non-Anginal Pain,100,0,normal,normal,179,no,-1.1,Up,0
-40,male,Asymptomatic,95,0,high,ST-abnormality,144,no,0.0,Up,1
-51,male,Asymptomatic,130,0,high,normal,170,no,-0.7,Up,1
-62,male,Typical Angina,120,0,high,left ventricular hypertrophy,134,no,-0.8,Flat,1
-72,male,Non-Anginal Pain,160,0,normal,left ventricular hypertrophy,114,no,1.6,Flat,0
-63,male,Asymptomatic,150,0,high,ST-abnormality,154,no,3.7,Up,1
-63,male,Asymptomatic,140,0,high,left ventricular hypertrophy,149,no,2.0,Up,1
-64,female,Asymptomatic,95,0,high,normal,145,no,1.1,Down,1
-43,male,Asymptomatic,100,0,high,normal,122,no,1.5,Down,1
-64,male,Asymptomatic,110,0,high,normal,114,y,1.3,Down,1
-61,male,Asymptomatic,110,0,high,normal,113,no,1.4,Flat,1
-52,male,Asymptomatic,130,0,high,normal,120,no,0.0,Flat,1
-51,male,Asymptomatic,120,0,high,normal,104,no,0.0,Flat,1
-69,male,Asymptomatic,135,0,normal,normal,130,no,0.0,Flat,1
-59,male,Asymptomatic,120,0,normal,normal,115,no,0.0,Flat,1
-48,male,Asymptomatic,115,0,high,normal,128,no,0.0,Flat,1
-69,male,Asymptomatic,137,0,normal,ST-abnormality,104,y,1.6,Flat,1
-36,male,Asymptomatic,110,0,high,normal,125,y,1.0,Flat,1
-53,male,Asymptomatic,120,0,high,normal,120,no,0.0,Flat,1
-43,male,Asymptomatic,140,0,normal,ST-abnormality,140,y,0.5,Up,1
-56,male,Asymptomatic,120,0,normal,ST-abnormality,100,y,-1.0,Down,1
-58,male,Asymptomatic,130,0,normal,ST-abnormality,100,y,1.0,Flat,1
-55,male,Asymptomatic,120,0,normal,ST-abnormality,92,no,0.3,Up,1
-67,male,Typical Angina,145,0,normal,left ventricular hypertrophy,125,no,0.0,Flat,1
-46,male,Asymptomatic,115,0,normal,normal,113,y,1.5,Flat,1
-53,male,Atypical Angina,120,0,normal,normal,95,no,0.0,Flat,1
-38,male,Non-Anginal Pain,115,0,normal,normal,128,y,0.0,Flat,1
-53,male,Non-Anginal Pain,105,0,normal,normal,115,no,0.0,Flat,1
-62,male,Non-Anginal Pain,160,0,normal,normal,72,y,0.0,Flat,1
-47,male,Asymptomatic,160,0,normal,normal,124,y,0.0,Flat,1
-56,male,Non-Anginal Pain,155,0,normal,ST-abnormality,99,no,0.0,Flat,1
-56,male,Asymptomatic,120,0,normal,ST-abnormality,148,no,0.0,Flat,1
-56,male,Non-Anginal Pain,120,0,normal,normal,97,no,0.0,Flat,0
-64,female,Asymptomatic,200,0,normal,normal,140,y,1.0,Flat,1
-61,male,Asymptomatic,150,0,normal,normal,117,y,2.0,Flat,1
-68,male,Asymptomatic,135,0,normal,ST-abnormality,120,y,0.0,Up,1
-57,male,Asymptomatic,140,0,normal,normal,120,y,2.0,Flat,1
-63,male,Asymptomatic,150,0,normal,normal,86,y,2.0,Flat,1
-60,male,Asymptomatic,135,0,normal,normal,63,y,0.5,Up,1
-66,male,Asymptomatic,150,0,normal,normal,108,y,2.0,Flat,1
-63,male,Asymptomatic,185,0,normal,normal,98,y,0.0,Up,1
-59,male,Asymptomatic,135,0,normal,normal,115,y,1.0,Flat,1
-61,male,Asymptomatic,125,0,normal,normal,105,y,0.0,Down,1
-73,female,Non-Anginal Pain,160,0,normal,ST-abnormality,121,no,0.0,Up,1
-47,male,Non-Anginal Pain,155,0,normal,normal,118,y,1.0,Flat,1
-65,male,Asymptomatic,160,0,high,ST-abnormality,122,no,1.2,Flat,1
-70,male,Asymptomatic,140,0,high,normal,157,y,2.0,Flat,1
-50,male,Asymptomatic,120,0,normal,ST-abnormality,156,y,0.0,Up,1
-60,male,Asymptomatic,160,0,normal,ST-abnormality,99,y,0.5,Flat,1
-50,male,Asymptomatic,115,0,normal,normal,120,y,0.5,Flat,1
-43,male,Asymptomatic,115,0,normal,normal,145,y,2.0,Flat,1
-38,female,Asymptomatic,110,0,normal,normal,156,no,0.0,Flat,1
-54,male,Asymptomatic,120,0,normal,normal,155,no,0.0,Flat,1
-61,male,Asymptomatic,150,0,normal,normal,105,y,0.0,Flat,1
-42,male,Asymptomatic,145,0,normal,normal,99,y,0.0,Flat,1
-53,male,Asymptomatic,130,0,normal,left ventricular hypertrophy,135,y,1.0,Flat,1
-55,male,Asymptomatic,140,0,normal,normal,83,no,0.0,Flat,1
-61,male,Asymptomatic,160,0,high,ST-abnormality,145,no,1.0,Flat,1
-51,male,Asymptomatic,140,0,normal,normal,60,no,0.0,Flat,1
-70,male,Asymptomatic,115,0,normal,ST-abnormality,92,y,0.0,Flat,1
-61,male,Asymptomatic,130,0,normal,left ventricular hypertrophy,115,no,0.0,Flat,1
-38,male,Asymptomatic,150,0,high,normal,120,y,0.7,Flat,1
-57,male,Asymptomatic,160,0,high,normal,98,y,2.0,Flat,1
-38,male,Asymptomatic,135,0,high,normal,150,no,0.0,Flat,1
-62,female,Typical Angina,140,0,high,normal,143,no,0.0,Flat,1
-58,male,Asymptomatic,170,0,high,ST-abnormality,105,y,0.0,Flat,1
-52,male,Asymptomatic,165,0,high,normal,122,y,1.0,Up,1
-61,male,Non-Anginal Pain,200,0,high,ST-abnormality,70,no,0.0,Flat,1
-50,female,Asymptomatic,160,0,high,normal,110,no,0.0,Flat,1
-51,male,Asymptomatic,130,0,high,ST-abnormality,163,no,0.0,Flat,1
-65,male,Asymptomatic,145,0,high,ST-abnormality,67,no,0.7,Flat,1
-52,male,Asymptomatic,135,0,high,normal,128,y,2.0,Flat,1
-47,male,Non-Anginal Pain,110,0,high,normal,120,y,0.0,Flat,1
-35,male,Asymptomatic,120,0,high,normal,130,y,1.2,Flat,1
-57,male,Asymptomatic,140,0,high,normal,100,y,0.0,Flat,1
-62,male,Asymptomatic,115,0,high,normal,72,y,-0.5,Flat,1
-59,male,Asymptomatic,110,0,high,normal,94,no,0.0,Flat,1
-53,male,Non-Anginal Pain,160,0,high,left ventricular hypertrophy,122,y,0.0,Flat,1
-62,male,Asymptomatic,150,0,high,ST-abnormality,78,no,2.0,Flat,1
-54,male,Asymptomatic,180,0,high,normal,150,no,1.5,Flat,1
-56,male,Asymptomatic,125,0,high,normal,103,y,1.0,Flat,1
-56,male,Non-Anginal Pain,125,0,high,normal,98,no,-2.0,Flat,1
-54,male,Asymptomatic,130,0,high,normal,110,y,3.0,Flat,1
-66,female,Asymptomatic,155,0,high,normal,90,no,0.0,Flat,1
-63,male,Asymptomatic,140,260,normal,ST-abnormality,112,y,3.0,Flat,1
-44,male,Asymptomatic,130,209,normal,ST-abnormality,127,no,0.0,Up,0
-60,male,Asymptomatic,132,218,normal,ST-abnormality,140,y,1.5,Down,1
-55,male,Asymptomatic,142,228,normal,ST-abnormality,149,y,2.5,Up,1
-66,male,Non-Anginal Pain,110,213,high,left ventricular hypertrophy,99,y,1.3,Flat,0
-66,male,Non-Anginal Pain,120,0,normal,ST-abnormality,120,no,-0.5,Up,0
-65,male,Asymptomatic,150,236,high,ST-abnormality,105,y,0.0,Flat,1
-60,male,Non-Anginal Pain,180,0,normal,ST-abnormality,140,y,1.5,Flat,0
-60,male,Non-Anginal Pain,120,0,high,normal,141,y,2.0,Up,1
-60,male,Atypical Angina,160,267,high,ST-abnormality,157,no,0.5,Flat,1
-56,male,Atypical Angina,126,166,normal,ST-abnormality,140,no,0.0,Up,0
-59,male,Asymptomatic,140,0,normal,ST-abnormality,117,y,1.0,Flat,1
-62,male,Asymptomatic,110,0,normal,normal,120,y,0.5,Flat,1
-63,male,Non-Anginal Pain,133,0,normal,left ventricular hypertrophy,120,y,1.0,Flat,1
-57,male,Asymptomatic,128,0,high,ST-abnormality,148,y,1.0,Flat,1
-62,male,Asymptomatic,120,220,normal,ST-abnormality,86,no,0.0,Up,0
-63,male,Asymptomatic,170,177,normal,normal,84,y,2.5,Down,1
-46,male,Asymptomatic,110,236,normal,normal,125,y,2.0,Flat,1
-63,male,Asymptomatic,126,0,normal,ST-abnormality,120,no,1.5,Down,0
-60,male,Asymptomatic,152,0,normal,ST-abnormality,118,y,0.0,Up,0
-58,male,Asymptomatic,116,0,normal,normal,124,no,1.0,Up,1
-64,male,Asymptomatic,120,0,high,ST-abnormality,106,no,2.0,Flat,1
-63,male,Non-Anginal Pain,130,0,normal,ST-abnormality,111,y,0.0,Flat,1
-74,male,Non-Anginal Pain,138,0,normal,normal,116,no,0.2,Up,0
-52,male,Non-Anginal Pain,128,0,normal,ST-abnormality,180,no,3.0,Up,1
-69,male,Asymptomatic,130,0,high,ST-abnormality,129,no,1.0,Flat,1
-51,male,Asymptomatic,128,0,high,ST-abnormality,125,y,1.2,Flat,1
-60,male,Asymptomatic,130,186,high,ST-abnormality,140,y,0.5,Flat,1
-56,male,Asymptomatic,120,100,normal,normal,120,y,1.5,Flat,1
-55,male,Non-Anginal Pain,136,228,normal,ST-abnormality,124,y,1.6,Flat,1
-54,male,Asymptomatic,130,0,normal,ST-abnormality,117,y,1.4,Flat,1
-77,male,Asymptomatic,124,171,normal,ST-abnormality,110,y,2.0,Up,1
-63,male,Asymptomatic,160,230,high,normal,105,y,1.0,Flat,1
-55,male,Non-Anginal Pain,0,0,normal,normal,155,no,1.5,Flat,1
-52,male,Non-Anginal Pain,122,0,normal,normal,110,y,2.0,Down,1
-64,male,Asymptomatic,144,0,normal,ST-abnormality,122,y,1.0,Flat,1
-60,male,Asymptomatic,140,281,normal,ST-abnormality,118,y,1.5,Flat,1
-60,male,Asymptomatic,120,0,normal,normal,133,y,2.0,Up,0
-58,male,Asymptomatic,136,203,high,normal,123,y,1.2,Flat,1
-59,male,Asymptomatic,154,0,normal,ST-abnormality,131,y,1.5,Up,0
-61,male,Non-Anginal Pain,120,0,normal,normal,80,y,0.0,Flat,1
-40,male,Asymptomatic,125,0,high,normal,165,no,0.0,Flat,1
-61,male,Asymptomatic,134,0,high,ST-abnormality,86,no,1.5,Flat,1
-41,male,Asymptomatic,104,0,normal,ST-abnormality,111,no,0.0,Up,0
-57,male,Asymptomatic,139,277,high,ST-abnormality,118,y,1.9,Flat,1
-63,male,Asymptomatic,136,0,normal,normal,84,y,0.0,Flat,1
-59,male,Asymptomatic,122,233,normal,normal,117,y,1.3,Down,1
-51,male,Asymptomatic,128,0,normal,normal,107,no,0.0,Up,0
-59,male,Non-Anginal Pain,131,0,normal,normal,128,y,2.0,Down,1
-42,male,Non-Anginal Pain,134,240,normal,normal,160,no,0.0,Up,0
-55,male,Non-Anginal Pain,120,0,normal,ST-abnormality,125,y,2.5,Flat,1
-63,female,Atypical Angina,132,0,normal,normal,130,no,0.1,Up,0
-62,male,Asymptomatic,152,153,normal,ST-abnormality,97,y,1.6,Up,1
-56,male,Atypical Angina,124,224,high,normal,161,no,2.0,Flat,0
-53,male,Asymptomatic,126,0,normal,normal,106,no,0.0,Flat,1
-68,male,Asymptomatic,138,0,normal,normal,130,y,3.0,Flat,1
-53,male,Asymptomatic,154,0,high,ST-abnormality,140,y,1.5,Flat,1
-60,male,Non-Anginal Pain,141,316,high,ST-abnormality,122,y,1.7,Flat,1
-62,male,Atypical Angina,131,0,normal,normal,130,no,0.1,Up,0
-59,male,Asymptomatic,178,0,high,left ventricular hypertrophy,120,y,0.0,Flat,1
-51,male,Asymptomatic,132,218,high,left ventricular hypertrophy,139,no,0.1,Up,0
-61,male,Asymptomatic,110,0,high,normal,108,y,2.0,Down,1
-57,male,Asymptomatic,130,311,high,ST-abnormality,148,y,2.0,Flat,1
-56,male,Non-Anginal Pain,170,0,normal,left ventricular hypertrophy,123,y,2.5,Flat,1
-58,male,Atypical Angina,126,0,high,normal,110,y,2.0,Flat,1
-69,male,Non-Anginal Pain,140,0,high,ST-abnormality,118,no,2.5,Down,1
-67,male,Typical Angina,142,270,high,normal,125,no,2.5,Up,1
-58,male,Asymptomatic,120,0,normal,left ventricular hypertrophy,106,y,1.5,Down,1
-65,male,Asymptomatic,134,0,normal,normal,112,y,1.1,Flat,1
-63,male,Atypical Angina,139,217,high,ST-abnormality,128,y,1.2,Flat,1
-55,male,Atypical Angina,110,214,high,ST-abnormality,180,no,0.4,Up,0
-57,male,Asymptomatic,140,214,normal,ST-abnormality,144,y,2.0,Flat,1
-65,male,Typical Angina,140,252,normal,normal,135,no,0.3,Up,0
-54,male,Asymptomatic,136,220,normal,normal,140,y,3.0,Flat,1
-72,male,Non-Anginal Pain,120,214,normal,normal,102,y,1.0,Flat,1
-75,male,Asymptomatic,170,203,high,ST-abnormality,108,no,0.0,Flat,1
-49,male,Typical Angina,130,0,normal,ST-abnormality,145,no,3.0,Flat,1
-51,male,Non-Anginal Pain,137,339,normal,normal,127,y,1.7,Flat,1
-60,male,Asymptomatic,142,216,normal,normal,110,y,2.5,Flat,1
-64,female,Asymptomatic,142,276,normal,normal,140,y,1.0,Flat,1
-58,male,Asymptomatic,132,458,high,normal,69,no,1.0,Down,0
-61,male,Asymptomatic,146,241,normal,normal,148,y,3.0,Down,1
-67,male,Asymptomatic,160,384,high,ST-abnormality,130,y,0.0,Flat,1
-62,male,Asymptomatic,135,297,normal,normal,130,y,1.0,Flat,1
-65,male,Asymptomatic,136,248,normal,normal,140,y,4.0,Down,1
-63,male,Asymptomatic,130,308,normal,normal,138,y,2.0,Flat,1
-69,male,Asymptomatic,140,208,normal,ST-abnormality,140,y,2.0,Flat,1
-51,male,Asymptomatic,132,227,high,ST-abnormality,138,no,0.2,Up,0
-62,male,Asymptomatic,158,210,high,normal,112,y,3.0,Down,1
-55,male,Non-Anginal Pain,136,245,high,ST-abnormality,131,y,1.2,Flat,1
-75,male,Asymptomatic,136,225,normal,normal,112,y,3.0,Flat,1
-40,male,Non-Anginal Pain,106,240,normal,normal,80,y,0.0,Up,0
-67,male,Asymptomatic,120,0,high,normal,150,no,1.5,Down,1
-58,male,Asymptomatic,110,198,normal,normal,110,no,0.0,Flat,1
-60,male,Asymptomatic,136,195,normal,normal,126,no,0.3,Up,0
-63,male,Asymptomatic,160,267,high,ST-abnormality,88,y,2.0,Flat,1
-35,male,Non-Anginal Pain,123,161,normal,ST-abnormality,153,no,-0.1,Up,0
-62,male,Typical Angina,112,258,normal,ST-abnormality,150,y,1.3,Flat,1
-43,male,Asymptomatic,122,0,normal,normal,120,no,0.5,Up,1
-63,male,Non-Anginal Pain,130,0,high,ST-abnormality,160,no,3.0,Flat,0
-68,male,Non-Anginal Pain,150,195,high,normal,132,no,0.0,Flat,1
-65,male,Asymptomatic,150,235,normal,normal,120,y,1.5,Flat,1
-48,male,Non-Anginal Pain,102,0,high,ST-abnormality,110,y,1.0,Down,1
-63,male,Asymptomatic,96,305,normal,ST-abnormality,121,y,1.0,Up,1
-64,male,Asymptomatic,130,223,normal,ST-abnormality,128,no,0.5,Flat,0
-61,male,Asymptomatic,120,282,normal,ST-abnormality,135,y,4.0,Down,1
-50,male,Asymptomatic,144,349,normal,left ventricular hypertrophy,120,y,1.0,Up,1
-59,male,Asymptomatic,124,160,normal,normal,117,y,1.0,Flat,1
-55,male,Asymptomatic,150,160,normal,ST-abnormality,150,no,0.0,Up,0
-45,male,Non-Anginal Pain,130,236,normal,normal,144,no,0.1,Up,0
-65,male,Asymptomatic,144,312,normal,left ventricular hypertrophy,113,y,1.7,Flat,1
-61,male,Atypical Angina,139,283,normal,normal,135,no,0.3,Up,0
-49,male,Non-Anginal Pain,131,142,normal,normal,127,y,1.5,Flat,1
-72,male,Asymptomatic,143,211,normal,normal,109,y,1.4,Flat,1
-50,male,Asymptomatic,133,218,normal,normal,128,y,1.1,Flat,1
-64,male,Asymptomatic,143,306,high,ST-abnormality,115,y,1.8,Flat,1
-55,male,Asymptomatic,116,186,high,ST-abnormality,102,no,0.0,Flat,1
-63,male,Asymptomatic,110,252,normal,ST-abnormality,140,y,2.0,Flat,1
-59,male,Asymptomatic,125,222,normal,normal,135,y,2.5,Down,1
-56,male,Asymptomatic,130,0,normal,left ventricular hypertrophy,122,y,1.0,Flat,1
-62,male,Non-Anginal Pain,133,0,high,ST-abnormality,119,y,1.2,Flat,1
-74,male,Asymptomatic,150,258,high,ST-abnormality,130,y,4.0,Down,1
-54,male,Asymptomatic,130,202,high,normal,112,y,2.0,Flat,1
-57,male,Asymptomatic,110,197,normal,left ventricular hypertrophy,100,no,0.0,Up,0
-62,male,Non-Anginal Pain,138,204,normal,ST-abnormality,122,y,1.2,Flat,1
-76,male,Non-Anginal Pain,104,113,normal,left ventricular hypertrophy,120,no,3.5,Down,1
-54,female,Asymptomatic,138,274,normal,normal,105,y,1.5,Flat,1
-70,male,Asymptomatic,170,192,normal,ST-abnormality,129,y,3.0,Down,1
-61,female,Atypical Angina,140,298,high,normal,120,y,0.0,Up,0
-48,male,Asymptomatic,132,272,normal,ST-abnormality,139,no,0.2,Up,0
-48,male,Non-Anginal Pain,132,220,high,ST-abnormality,162,no,0.0,Flat,1
-61,male,Typical Angina,142,200,high,ST-abnormality,100,no,1.5,Down,1
-66,male,Asymptomatic,112,261,normal,normal,140,no,1.5,Up,1
-68,male,Typical Angina,139,181,high,ST-abnormality,135,no,0.2,Up,0
-55,male,Asymptomatic,172,260,normal,normal,73,no,2.0,Flat,1
-62,male,Non-Anginal Pain,120,220,normal,left ventricular hypertrophy,86,no,0.0,Up,0
-71,male,Non-Anginal Pain,144,221,normal,normal,108,y,1.8,Flat,1
-74,male,Typical Angina,145,216,high,normal,116,y,1.8,Flat,1
-53,male,Non-Anginal Pain,155,175,high,ST-abnormality,160,no,0.3,Up,0
-58,male,Non-Anginal Pain,150,219,normal,ST-abnormality,118,y,0.0,Flat,1
-75,male,Asymptomatic,160,310,high,normal,112,y,2.0,Down,0
-56,male,Non-Anginal Pain,137,208,high,ST-abnormality,122,y,1.8,Flat,1
-58,male,Non-Anginal Pain,137,232,normal,ST-abnormality,124,y,1.4,Flat,1
-64,male,Asymptomatic,134,273,normal,normal,102,y,4.0,Down,1
-54,male,Non-Anginal Pain,133,203,normal,ST-abnormality,137,no,0.2,Up,0
-54,male,Atypical Angina,132,182,normal,ST-abnormality,141,no,0.1,Up,0
-59,male,Asymptomatic,140,274,normal,normal,154,y,2.0,Flat,0
-55,male,Asymptomatic,135,204,high,ST-abnormality,126,y,1.1,Flat,1
-57,male,Asymptomatic,144,270,high,ST-abnormality,160,y,2.0,Flat,1
-61,male,Asymptomatic,141,292,normal,ST-abnormality,115,y,1.7,Flat,1
-41,male,Asymptomatic,150,171,normal,normal,128,y,1.5,Flat,0
-71,male,Asymptomatic,130,221,normal,ST-abnormality,115,y,0.0,Flat,1
-38,male,Asymptomatic,110,289,normal,normal,105,y,1.5,Down,1
-55,male,Asymptomatic,158,217,normal,normal,110,y,2.5,Flat,1
-56,male,Asymptomatic,128,223,normal,ST-abnormality,119,y,2.0,Down,1
-69,male,Asymptomatic,140,110,high,normal,109,y,1.5,Flat,1
-64,male,Asymptomatic,150,193,normal,ST-abnormality,135,y,0.5,Flat,1
-72,male,Asymptomatic,160,123,high,left ventricular hypertrophy,130,no,1.5,Flat,1
-69,male,Asymptomatic,142,210,high,ST-abnormality,112,y,1.5,Flat,1
-56,male,Asymptomatic,137,282,high,normal,126,y,1.2,Flat,1
-62,male,Asymptomatic,139,170,normal,ST-abnormality,120,y,3.0,Flat,1
-67,male,Asymptomatic,146,369,normal,normal,110,y,1.9,Flat,1
-57,male,Asymptomatic,156,173,normal,left ventricular hypertrophy,119,y,3.0,Down,1
-69,male,Asymptomatic,145,289,high,ST-abnormality,110,y,1.8,Flat,1
-51,male,Asymptomatic,131,152,high,left ventricular hypertrophy,130,y,1.0,Flat,1
-48,male,Asymptomatic,140,208,normal,normal,159,y,1.5,Up,1
-69,male,Asymptomatic,122,216,high,left ventricular hypertrophy,84,y,0.0,Flat,1
-69,male,Non-Anginal Pain,142,271,normal,left ventricular hypertrophy,126,no,0.3,Up,0
-64,male,Asymptomatic,141,244,high,ST-abnormality,116,y,1.5,Flat,1
-57,male,Atypical Angina,180,285,high,ST-abnormality,120,no,0.8,Flat,1
-53,male,Asymptomatic,124,243,normal,normal,122,y,2.0,Flat,1
-37,male,Non-Anginal Pain,118,240,normal,left ventricular hypertrophy,165,no,1.0,Flat,0
-67,male,Asymptomatic,140,219,normal,ST-abnormality,122,y,2.0,Flat,1
-74,male,Non-Anginal Pain,140,237,high,normal,94,no,0.0,Flat,1
-63,male,Atypical Angina,136,165,normal,ST-abnormality,133,no,0.2,Up,0
-58,male,Asymptomatic,100,213,normal,ST-abnormality,110,no,0.0,Up,0
-61,male,Asymptomatic,190,287,high,left ventricular hypertrophy,150,y,2.0,Down,1
-64,male,Asymptomatic,130,258,high,left ventricular hypertrophy,130,no,0.0,Flat,1
-58,male,Asymptomatic,160,256,high,left ventricular hypertrophy,113,y,1.0,Up,1
-60,male,Asymptomatic,130,186,high,left ventricular hypertrophy,140,y,0.5,Flat,1
-57,male,Asymptomatic,122,264,normal,left ventricular hypertrophy,100,no,0.0,Flat,1
-55,male,Non-Anginal Pain,133,185,normal,ST-abnormality,136,no,0.2,Up,0
-55,male,Asymptomatic,120,226,normal,left ventricular hypertrophy,127,y,1.7,Down,1
-56,male,Asymptomatic,130,203,high,normal,98,no,1.5,Flat,1
-57,male,Asymptomatic,130,207,normal,ST-abnormality,96,y,1.0,Flat,0
-61,male,Non-Anginal Pain,140,284,normal,normal,123,y,1.3,Flat,1
-61,male,Non-Anginal Pain,120,337,normal,normal,98,y,0.0,Flat,1
-74,male,Asymptomatic,155,310,normal,normal,112,y,1.5,Down,1
-68,male,Non-Anginal Pain,134,254,high,normal,151,y,0.0,Up,0
-51,female,Asymptomatic,114,258,high,left ventricular hypertrophy,96,no,1.0,Up,0
-62,male,Asymptomatic,160,254,high,ST-abnormality,108,y,3.0,Flat,1
-53,male,Asymptomatic,144,300,high,ST-abnormality,128,y,1.5,Flat,1
-62,male,Asymptomatic,158,170,normal,ST-abnormality,138,y,0.0,Flat,1
-46,male,Asymptomatic,134,310,normal,normal,126,no,0.0,Flat,1
-54,female,Asymptomatic,127,333,high,ST-abnormality,154,no,0.0,Flat,1
-62,male,Typical Angina,135,139,normal,ST-abnormality,137,no,0.2,Up,0
-55,male,Asymptomatic,122,223,high,ST-abnormality,100,no,0.0,Flat,1
-58,male,Asymptomatic,140,385,high,left ventricular hypertrophy,135,no,0.3,Up,0
-62,male,Atypical Angina,120,254,normal,left ventricular hypertrophy,93,y,0.0,Flat,1
-70,male,Asymptomatic,130,322,normal,left ventricular hypertrophy,109,no,2.4,Flat,1
-67,female,Non-Anginal Pain,115,564,normal,left ventricular hypertrophy,160,no,1.6,Flat,0
-57,male,Atypical Angina,124,261,normal,normal,141,no,0.3,Up,1
-64,male,Asymptomatic,128,263,normal,normal,105,y,0.2,Flat,0
-74,female,Atypical Angina,120,269,normal,left ventricular hypertrophy,121,y,0.2,Up,0
-65,male,Asymptomatic,120,177,normal,normal,140,no,0.4,Up,0
-56,male,Non-Anginal Pain,130,256,high,left ventricular hypertrophy,142,y,0.6,Flat,1
-59,male,Asymptomatic,110,239,normal,left ventricular hypertrophy,142,y,1.2,Flat,1
-60,male,Asymptomatic,140,293,normal,left ventricular hypertrophy,170,no,1.2,Flat,1
-63,female,Asymptomatic,150,407,normal,left ventricular hypertrophy,154,no,4.0,Flat,1
-59,male,Asymptomatic,135,234,normal,normal,161,no,0.5,Flat,0
-53,male,Asymptomatic,142,226,normal,left ventricular hypertrophy,111,y,0.0,Up,0
-44,male,Non-Anginal Pain,140,235,normal,left ventricular hypertrophy,180,no,0.0,Up,0
-61,male,Typical Angina,134,234,normal,normal,145,no,2.6,Flat,1
-57,female,Asymptomatic,128,303,normal,left ventricular hypertrophy,159,no,0.0,Up,0
-71,female,Asymptomatic,112,149,normal,normal,125,no,1.6,Flat,0
-46,male,Asymptomatic,140,311,normal,normal,120,y,1.8,Flat,1
-53,male,Asymptomatic,140,203,high,left ventricular hypertrophy,155,y,3.1,Down,1
-64,male,Typical Angina,110,211,normal,left ventricular hypertrophy,144,y,1.8,Flat,0
-40,male,Typical Angina,140,199,normal,normal,178,y,1.4,Up,0
-67,male,Asymptomatic,120,229,normal,left ventricular hypertrophy,129,y,2.6,Flat,1
-48,male,Atypical Angina,130,245,normal,left ventricular hypertrophy,180,no,0.2,Flat,0
-43,male,Asymptomatic,115,303,normal,normal,181,no,1.2,Flat,0
-47,male,Asymptomatic,112,204,normal,normal,143,no,0.1,Up,0
-54,female,Atypical Angina,132,288,high,left ventricular hypertrophy,159,y,0.0,Up,0
-48,female,Non-Anginal Pain,130,275,normal,normal,139,no,0.2,Up,0
-46,female,Asymptomatic,138,243,normal,left ventricular hypertrophy,152,y,0.0,Flat,0
-51,female,Non-Anginal Pain,120,295,normal,left ventricular hypertrophy,157,no,0.6,Up,0
-58,male,Non-Anginal Pain,112,230,normal,left ventricular hypertrophy,165,no,2.5,Flat,1
-71,female,Non-Anginal Pain,110,265,high,left ventricular hypertrophy,130,no,0.0,Up,0
-57,male,Non-Anginal Pain,128,229,normal,left ventricular hypertrophy,150,no,0.4,Flat,1
-66,male,Asymptomatic,160,228,normal,left ventricular hypertrophy,138,no,2.3,Up,0
-37,female,Non-Anginal Pain,120,215,normal,normal,170,no,0.0,Up,0
-59,male,Asymptomatic,170,326,normal,left ventricular hypertrophy,140,y,3.4,Down,1
-50,male,Asymptomatic,144,200,normal,left ventricular hypertrophy,126,y,0.9,Flat,1
-48,male,Asymptomatic,130,256,high,left ventricular hypertrophy,150,y,0.0,Up,1
-61,male,Asymptomatic,140,207,normal,left ventricular hypertrophy,138,y,1.9,Up,1
-59,male,Typical Angina,160,273,normal,left ventricular hypertrophy,125,no,0.0,Up,1
-42,male,Non-Anginal Pain,130,180,normal,normal,150,no,0.0,Up,0
-48,male,Asymptomatic,122,222,normal,left ventricular hypertrophy,186,no,0.0,Up,0
-40,male,Asymptomatic,152,223,normal,normal,181,no,0.0,Up,1
-62,female,Asymptomatic,124,209,normal,normal,163,no,0.0,Up,0
-44,male,Non-Anginal Pain,130,233,normal,normal,179,y,0.4,Up,0
-46,male,Atypical Angina,101,197,high,normal,156,no,0.0,Up,0
-59,male,Non-Anginal Pain,126,218,high,normal,134,no,2.2,Flat,1
-58,male,Non-Anginal Pain,140,211,high,left ventricular hypertrophy,165,no,0.0,Up,0
-49,male,Non-Anginal Pain,118,149,normal,left ventricular hypertrophy,126,no,0.8,Up,1
-44,male,Asymptomatic,110,197,normal,left ventricular hypertrophy,177,no,0.0,Up,1
-66,male,Atypical Angina,160,246,normal,normal,120,y,0.0,Flat,1
-65,female,Asymptomatic,150,225,normal,left ventricular hypertrophy,114,no,1.0,Flat,1
-42,male,Asymptomatic,136,315,normal,normal,125,y,1.8,Flat,1
-52,male,Atypical Angina,128,205,high,normal,184,no,0.0,Up,0
-65,female,Non-Anginal Pain,140,417,high,left ventricular hypertrophy,157,no,0.8,Up,0
-63,female,Atypical Angina,140,195,normal,normal,179,no,0.0,Up,0
-45,female,Atypical Angina,130,234,normal,left ventricular hypertrophy,175,no,0.6,Flat,0
-41,female,Atypical Angina,105,198,normal,normal,168,no,0.0,Up,0
-61,male,Asymptomatic,138,166,normal,left ventricular hypertrophy,125,y,3.6,Flat,1
-60,female,Non-Anginal Pain,120,178,high,normal,96,no,0.0,Up,0
-59,female,Asymptomatic,174,249,normal,normal,143,y,0.0,Flat,1
-62,male,Atypical Angina,120,281,normal,left ventricular hypertrophy,103,no,1.4,Flat,1
-57,male,Non-Anginal Pain,150,126,high,normal,173,no,0.2,Up,0
-51,female,Asymptomatic,130,305,normal,normal,142,y,1.2,Flat,1
-44,male,Non-Anginal Pain,120,226,normal,normal,169,no,0.0,Up,0
-60,female,Typical Angina,150,240,normal,normal,171,no,0.9,Up,0
-63,male,Typical Angina,145,233,high,left ventricular hypertrophy,150,no,2.3,Down,0
-57,male,Asymptomatic,150,276,normal,left ventricular hypertrophy,112,y,0.6,Flat,1
-51,male,Asymptomatic,140,261,normal,left ventricular hypertrophy,186,y,0.0,Up,0
-58,female,Atypical Angina,136,319,high,left ventricular hypertrophy,152,no,0.0,Up,1
-44,female,Non-Anginal Pain,118,242,normal,normal,149,no,0.3,Flat,0
-47,male,Non-Anginal Pain,108,243,normal,normal,152,no,0.0,Up,1
-61,male,Asymptomatic,120,260,normal,normal,140,y,3.6,Flat,1
-57,female,Asymptomatic,120,354,normal,normal,163,y,0.6,Up,0
-70,male,Atypical Angina,156,245,normal,left ventricular hypertrophy,143,no,0.0,Up,0
-76,female,Non-Anginal Pain,140,197,normal,ST-abnormality,116,no,1.1,Flat,0
-67,female,Asymptomatic,106,223,normal,normal,142,no,0.3,Up,0
-45,male,Asymptomatic,142,309,normal,left ventricular hypertrophy,147,y,0.0,Flat,1
-45,male,Asymptomatic,104,208,normal,left ventricular hypertrophy,148,y,3.0,Flat,0
-39,female,Non-Anginal Pain,94,199,normal,normal,179,no,0.0,Up,0
-42,female,Non-Anginal Pain,120,209,normal,normal,173,no,0.0,Flat,0
-56,male,Atypical Angina,120,236,normal,normal,178,no,0.8,Up,0
-58,male,Asymptomatic,146,218,normal,normal,105,no,2.0,Flat,1
-35,male,Asymptomatic,120,198,normal,normal,130,y,1.6,Flat,1
-58,male,Asymptomatic,150,270,normal,left ventricular hypertrophy,111,y,0.8,Up,1
-41,male,Non-Anginal Pain,130,214,normal,left ventricular hypertrophy,168,no,2.0,Flat,0
-57,male,Asymptomatic,110,201,normal,normal,126,y,1.5,Flat,0
-42,male,Typical Angina,148,244,normal,left ventricular hypertrophy,178,no,0.8,Up,0
-62,male,Atypical Angina,128,208,high,left ventricular hypertrophy,140,no,0.0,Up,0
-59,male,Typical Angina,178,270,normal,left ventricular hypertrophy,145,no,4.2,Down,0
-41,female,Atypical Angina,126,306,normal,normal,163,no,0.0,Up,0
-50,male,Asymptomatic,150,243,normal,left ventricular hypertrophy,128,no,2.6,Flat,1
-59,male,Atypical Angina,140,221,normal,normal,164,y,0.0,Up,0
-61,female,Asymptomatic,130,330,normal,left ventricular hypertrophy,169,no,0.0,Up,1
-54,male,Asymptomatic,124,266,normal,left ventricular hypertrophy,109,y,2.2,Flat,1
-54,male,Asymptomatic,110,206,normal,left ventricular hypertrophy,108,y,0.0,Flat,1
-52,male,Asymptomatic,125,212,normal,normal,168,no,1.0,Up,1
-47,male,Asymptomatic,110,275,normal,left ventricular hypertrophy,118,y,1.0,Flat,1
-66,male,Asymptomatic,120,302,normal,left ventricular hypertrophy,151,no,0.4,Flat,0
-58,male,Asymptomatic,100,234,normal,normal,156,no,0.1,Up,1
-64,female,Non-Anginal Pain,140,313,normal,normal,133,no,0.2,Up,0
-50,female,Atypical Angina,120,244,normal,normal,162,no,1.1,Up,0
-44,female,Non-Anginal Pain,108,141,normal,normal,175,no,0.6,Flat,0
-67,male,Asymptomatic,120,237,normal,normal,71,no,1.0,Flat,1
-49,female,Asymptomatic,130,269,normal,normal,163,no,0.0,Up,0
-57,male,Asymptomatic,165,289,high,left ventricular hypertrophy,124,no,1.0,Flat,1
-63,male,Asymptomatic,130,254,normal,left ventricular hypertrophy,147,no,1.4,Flat,1
-48,male,Asymptomatic,124,274,normal,left ventricular hypertrophy,166,no,0.5,Flat,1
-51,male,Non-Anginal Pain,100,222,normal,normal,143,y,1.2,Flat,0
-60,female,Asymptomatic,150,258,normal,left ventricular hypertrophy,157,no,2.6,Flat,1
-59,male,Asymptomatic,140,177,normal,normal,162,y,0.0,Up,1
-45,female,Atypical Angina,112,160,normal,normal,138,no,0.0,Flat,0
-55,female,Asymptomatic,180,327,normal,ST-abnormality,117,y,3.4,Flat,1
-41,male,Atypical Angina,110,235,normal,normal,153,no,0.0,Up,0
-60,female,Asymptomatic,158,305,normal,left ventricular hypertrophy,161,no,0.0,Up,1
-54,female,Non-Anginal Pain,135,304,high,normal,170,no,0.0,Up,0
-42,male,Atypical Angina,120,295,normal,normal,162,no,0.0,Up,0
-49,female,Atypical Angina,134,271,normal,normal,162,no,0.0,Flat,0
-46,male,Asymptomatic,120,249,normal,left ventricular hypertrophy,144,no,0.8,Up,1
-56,female,Asymptomatic,200,288,high,left ventricular hypertrophy,133,y,4.0,Down,1
-66,female,Typical Angina,150,226,normal,normal,114,no,2.6,Down,0
-56,male,Asymptomatic,130,283,high,left ventricular hypertrophy,103,y,1.6,Down,1
-49,male,Non-Anginal Pain,120,188,normal,normal,139,no,2.0,Flat,1
-54,male,Asymptomatic,122,286,normal,left ventricular hypertrophy,116,y,3.2,Flat,1
-57,male,Asymptomatic,152,274,normal,normal,88,y,1.2,Flat,1
-65,female,Non-Anginal Pain,160,360,normal,left ventricular hypertrophy,151,no,0.8,Up,0
-54,male,Non-Anginal Pain,125,273,normal,left ventricular hypertrophy,152,no,0.5,Down,0
-54,female,Non-Anginal Pain,160,201,normal,normal,163,no,0.0,Up,0
-62,male,Asymptomatic,120,267,normal,normal,99,y,1.8,Flat,1
-52,female,Non-Anginal Pain,136,196,normal,left ventricular hypertrophy,169,no,0.1,Flat,0
-52,male,Atypical Angina,134,201,normal,normal,158,no,0.8,Up,0
-60,male,Asymptomatic,117,230,high,normal,160,y,1.4,Up,1
-63,female,Asymptomatic,108,269,normal,normal,169,y,1.8,Flat,1
-66,male,Asymptomatic,112,212,normal,left ventricular hypertrophy,132,y,0.1,Up,1
-42,male,Asymptomatic,140,226,normal,normal,178,no,0.0,Up,0
-64,male,Asymptomatic,120,246,normal,left ventricular hypertrophy,96,y,2.2,Down,1
-54,male,Non-Anginal Pain,150,232,normal,left ventricular hypertrophy,165,no,1.6,Up,0
-46,female,Non-Anginal Pain,142,177,normal,left ventricular hypertrophy,160,y,1.4,Down,0
-67,female,Non-Anginal Pain,152,277,normal,normal,172,no,0.0,Up,0
-56,male,Asymptomatic,125,249,high,left ventricular hypertrophy,144,y,1.2,Flat,1
-34,female,Atypical Angina,118,210,normal,normal,192,no,0.7,Up,0
-57,male,Asymptomatic,132,207,normal,normal,168,y,0.0,Up,0
-64,male,Asymptomatic,145,212,normal,left ventricular hypertrophy,132,no,2.0,Flat,1
-59,male,Asymptomatic,138,271,normal,left ventricular hypertrophy,182,no,0.0,Up,0
-50,male,Non-Anginal Pain,140,233,normal,normal,163,no,0.6,Flat,1
-51,male,Typical Angina,125,213,normal,left ventricular hypertrophy,125,y,1.4,Up,0
-54,male,Atypical Angina,192,283,normal,left ventricular hypertrophy,195,no,0.0,Up,1
-53,male,Asymptomatic,123,282,normal,normal,95,y,2.0,Flat,1
-52,male,Asymptomatic,112,230,normal,normal,160,no,0.0,Up,1
-40,male,Asymptomatic,110,167,normal,left ventricular hypertrophy,114,y,2.0,Flat,1
-58,male,Non-Anginal Pain,132,224,normal,left ventricular hypertrophy,173,no,3.2,Up,1
-41,female,Non-Anginal Pain,112,268,normal,left ventricular hypertrophy,172,y,0.0,Up,0
-41,male,Non-Anginal Pain,112,250,normal,normal,179,no,0.0,Up,0
-50,female,Non-Anginal Pain,120,219,normal,normal,158,no,1.6,Flat,0
-54,female,Non-Anginal Pain,108,267,normal,left ventricular hypertrophy,167,no,0.0,Up,0
-64,female,Asymptomatic,130,303,normal,normal,122,no,2.0,Flat,0
-51,female,Non-Anginal Pain,130,256,normal,left ventricular hypertrophy,149,no,0.5,Up,0
-46,female,Atypical Angina,105,204,normal,normal,172,no,0.0,Up,0
-55,male,Asymptomatic,140,217,normal,normal,111,y,5.6,Down,1
-45,male,Atypical Angina,128,308,normal,left ventricular hypertrophy,170,no,0.0,Up,0
-56,male,Typical Angina,120,193,normal,left ventricular hypertrophy,162,no,1.9,Flat,0
-66,female,Asymptomatic,178,228,high,normal,165,y,1.0,Flat,1
-38,male,Typical Angina,120,231,normal,normal,182,y,3.8,Flat,1
-62,female,Asymptomatic,150,244,normal,normal,154,y,1.4,Flat,1
-55,male,Atypical Angina,130,262,normal,normal,155,no,0.0,Up,0
-58,male,Asymptomatic,128,259,normal,left ventricular hypertrophy,130,y,3.0,Flat,1
-43,male,Asymptomatic,110,211,normal,normal,161,no,0.0,Up,0
-64,female,Asymptomatic,180,325,normal,normal,154,y,0.0,Up,0
-50,female,Asymptomatic,110,254,normal,left ventricular hypertrophy,159,no,0.0,Up,0
-53,male,Non-Anginal Pain,130,197,high,left ventricular hypertrophy,152,no,1.2,Down,0
-45,female,Asymptomatic,138,236,normal,left ventricular hypertrophy,152,y,0.2,Flat,0
-65,male,Typical Angina,138,282,high,left ventricular hypertrophy,174,no,1.4,Flat,1
-69,male,Typical Angina,160,234,high,left ventricular hypertrophy,131,no,0.1,Flat,0
-69,male,Non-Anginal Pain,140,254,normal,left ventricular hypertrophy,146,no,2.0,Flat,1
-67,male,Asymptomatic,100,299,normal,left ventricular hypertrophy,125,y,0.9,Flat,1
-68,female,Non-Anginal Pain,120,211,normal,left ventricular hypertrophy,115,no,1.5,Flat,0
-34,male,Typical Angina,118,182,normal,left ventricular hypertrophy,174,no,0.0,Up,0
-62,female,Asymptomatic,138,294,high,normal,106,no,1.9,Flat,1
-51,male,Asymptomatic,140,298,normal,normal,122,y,4.2,Flat,1
-46,male,Non-Anginal Pain,150,231,normal,normal,147,no,3.6,Flat,1
-67,male,Asymptomatic,125,254,high,normal,163,no,0.2,Flat,1
-50,male,Non-Anginal Pain,129,196,normal,normal,163,no,0.0,Up,0
-42,male,Non-Anginal Pain,120,240,high,normal,194,no,0.8,Down,0
-56,female,Asymptomatic,134,409,normal,left ventricular hypertrophy,150,y,1.9,Flat,1
-41,male,Asymptomatic,110,172,normal,left ventricular hypertrophy,158,no,0.0,Up,1
-42,female,Asymptomatic,102,265,normal,left ventricular hypertrophy,122,no,0.6,Flat,0
-53,male,Non-Anginal Pain,130,246,high,left ventricular hypertrophy,173,no,0.0,Up,0
-43,male,Non-Anginal Pain,130,315,normal,normal,162,no,1.9,Up,0
-56,male,Asymptomatic,132,184,normal,left ventricular hypertrophy,105,y,2.1,Flat,1
-52,male,Asymptomatic,108,233,high,normal,147,no,0.1,Up,0
-62,female,Asymptomatic,140,394,normal,left ventricular hypertrophy,157,no,1.2,Flat,0
-70,male,Non-Anginal Pain,160,269,normal,normal,112,y,2.9,Flat,1
-54,male,Asymptomatic,140,239,normal,normal,160,no,1.2,Up,0
-70,male,Asymptomatic,145,174,normal,normal,125,y,2.6,Down,1
-54,male,Atypical Angina,108,309,normal,normal,156,no,0.0,Up,0
-35,male,Asymptomatic,126,282,normal,left ventricular hypertrophy,156,y,0.0,Up,1
-48,male,Non-Anginal Pain,124,255,high,normal,175,no,0.0,Up,0
-55,female,Atypical Angina,135,250,normal,left ventricular hypertrophy,161,no,1.4,Flat,0
-58,female,Asymptomatic,100,248,normal,left ventricular hypertrophy,122,no,1.0,Flat,0
-54,female,Non-Anginal Pain,110,214,normal,normal,158,no,1.6,Flat,0
-69,female,Typical Angina,140,239,normal,normal,151,no,1.8,Up,0
-77,male,Asymptomatic,125,304,normal,left ventricular hypertrophy,162,y,0.0,Up,1
-68,male,Non-Anginal Pain,118,277,normal,normal,151,no,1.0,Up,0
-58,male,Asymptomatic,125,300,normal,left ventricular hypertrophy,171,no,0.0,Up,1
-60,male,Asymptomatic,125,258,normal,left ventricular hypertrophy,141,y,2.8,Flat,1
-51,male,Asymptomatic,140,299,normal,normal,173,y,1.6,Up,1
-55,male,Asymptomatic,160,289,normal,left ventricular hypertrophy,145,y,0.8,Flat,1
-52,male,Typical Angina,152,298,high,normal,178,no,1.2,Flat,0
-60,female,Non-Anginal Pain,102,318,normal,normal,160,no,0.0,Up,0
-58,male,Non-Anginal Pain,105,240,normal,left ventricular hypertrophy,154,y,0.6,Flat,0
-64,male,Non-Anginal Pain,125,309,normal,normal,131,y,1.8,Flat,1
-37,male,Non-Anginal Pain,130,250,normal,normal,187,no,3.5,Down,0
-59,male,Typical Angina,170,288,normal,left ventricular hypertrophy,159,no,0.2,Flat,1
-51,male,Non-Anginal Pain,125,245,high,left ventricular hypertrophy,166,no,2.4,Flat,0
-43,female,Non-Anginal Pain,122,213,normal,normal,165,no,0.2,Flat,0
-58,male,Asymptomatic,128,216,normal,left ventricular hypertrophy,131,y,2.2,Flat,1
-29,male,Atypical Angina,130,204,normal,left ventricular hypertrophy,202,no,0.0,Up,0
-41,female,Atypical Angina,130,204,normal,left ventricular hypertrophy,172,no,1.4,Up,0
-63,female,Non-Anginal Pain,135,252,normal,left ventricular hypertrophy,172,no,0.0,Up,0
-51,male,Non-Anginal Pain,94,227,normal,normal,154,y,0.0,Up,0
-54,male,Non-Anginal Pain,120,258,normal,left ventricular hypertrophy,147,no,0.4,Flat,0
-44,male,Atypical Angina,120,220,normal,normal,170,no,0.0,Up,0
-54,male,Asymptomatic,110,239,normal,normal,126,y,2.8,Flat,1
-65,male,Asymptomatic,135,254,normal,left ventricular hypertrophy,127,no,2.8,Flat,1
-57,male,Non-Anginal Pain,150,168,normal,normal,174,no,1.6,Up,0
-63,male,Asymptomatic,130,330,high,left ventricular hypertrophy,132,y,1.8,Up,1
-35,female,Asymptomatic,138,183,normal,normal,182,no,1.4,Up,0
-41,male,Atypical Angina,135,203,normal,normal,132,no,0.0,Flat,0
-62,female,Non-Anginal Pain,130,263,normal,normal,97,no,1.2,Flat,1
-43,female,Asymptomatic,132,341,high,left ventricular hypertrophy,136,y,3.0,Flat,1
-58,female,Typical Angina,150,283,high,left ventricular hypertrophy,162,no,1.0,Up,0
-52,male,Typical Angina,118,186,normal,left ventricular hypertrophy,190,no,0.0,Flat,0
-61,female,Asymptomatic,145,307,normal,left ventricular hypertrophy,146,y,1.0,Flat,1
-39,male,Asymptomatic,118,219,normal,normal,140,no,1.2,Flat,1
-45,male,Asymptomatic,115,260,normal,left ventricular hypertrophy,185,no,0.0,Up,0
-52,male,Asymptomatic,128,255,normal,normal,161,y,0.0,Up,1
-62,male,Non-Anginal Pain,130,231,normal,normal,146,no,1.8,Flat,0
-62,female,Asymptomatic,160,164,normal,left ventricular hypertrophy,145,no,6.2,Down,1
-53,female,Asymptomatic,138,234,normal,left ventricular hypertrophy,160,no,0.0,Up,0
-43,male,Asymptomatic,120,177,normal,left ventricular hypertrophy,120,y,2.5,Flat,1
-47,male,Non-Anginal Pain,138,257,normal,left ventricular hypertrophy,156,no,0.0,Up,0
-52,male,Atypical Angina,120,325,normal,normal,172,no,0.2,Up,0
-68,male,Non-Anginal Pain,180,274,high,left ventricular hypertrophy,150,y,1.6,Flat,1
-39,male,Non-Anginal Pain,140,321,normal,left ventricular hypertrophy,182,no,0.0,Up,0
-53,female,Asymptomatic,130,264,normal,left ventricular hypertrophy,143,no,0.4,Flat,0
-62,female,Asymptomatic,140,268,normal,left ventricular hypertrophy,160,no,3.6,Down,1
-51,female,Non-Anginal Pain,140,308,normal,left ventricular hypertrophy,142,no,1.5,Up,0
-60,male,Asymptomatic,130,253,normal,normal,144,y,1.4,Up,1
-65,male,Asymptomatic,110,248,normal,left ventricular hypertrophy,158,no,0.6,Up,1
-65,female,Non-Anginal Pain,155,269,normal,normal,148,no,0.8,Up,0
-60,male,Non-Anginal Pain,140,185,normal,left ventricular hypertrophy,155,no,3.0,Flat,1
-60,male,Asymptomatic,145,282,normal,left ventricular hypertrophy,142,y,2.8,Flat,1
-54,male,Asymptomatic,120,188,normal,normal,113,no,1.4,Flat,1
-44,male,Atypical Angina,130,219,normal,left ventricular hypertrophy,188,no,0.0,Up,0
-44,male,Asymptomatic,112,290,normal,left ventricular hypertrophy,153,no,0.0,Up,1
-51,male,Non-Anginal Pain,110,175,normal,normal,123,no,0.6,Up,0
-59,male,Non-Anginal Pain,150,212,high,normal,157,no,1.6,Up,0
-71,female,Atypical Angina,160,302,normal,normal,162,no,0.4,Up,0
-61,male,Non-Anginal Pain,150,243,high,normal,137,y,1.0,Flat,0
-55,male,Asymptomatic,132,353,normal,normal,132,y,1.2,Flat,1
-64,male,Non-Anginal Pain,140,335,normal,normal,158,no,0.0,Up,1
-43,male,Asymptomatic,150,247,normal,normal,171,no,1.5,Up,0
-58,female,Non-Anginal Pain,120,340,normal,normal,172,no,0.0,Up,0
-60,male,Asymptomatic,130,206,normal,left ventricular hypertrophy,132,y,2.4,Flat,1
-58,male,Atypical Angina,120,284,normal,left ventricular hypertrophy,160,no,1.8,Flat,1
-49,male,Atypical Angina,130,266,normal,normal,171,no,0.6,Up,0
-48,male,Atypical Angina,110,229,normal,normal,168,no,1.0,Down,1
-52,male,Non-Anginal Pain,172,199,high,normal,162,no,0.5,Up,0
-44,male,Atypical Angina,120,263,normal,normal,173,no,0.0,Up,0
-56,female,Atypical Angina,140,294,normal,left ventricular hypertrophy,153,no,1.3,Flat,0
-57,male,Asymptomatic,140,192,normal,normal,148,no,0.4,Flat,0
-67,male,Asymptomatic,160,286,normal,left ventricular hypertrophy,108,y,1.5,Flat,1
-53,female,Non-Anginal Pain,128,216,normal,left ventricular hypertrophy,115,no,0.0,Up,0
-52,male,Non-Anginal Pain,138,223,normal,normal,169,no,0.0,Up,0
-43,male,Asymptomatic,132,247,high,left ventricular hypertrophy,143,y,0.1,Flat,1
-52,male,Asymptomatic,128,204,high,normal,156,y,1.0,Flat,1
-59,male,Typical Angina,134,204,normal,normal,162,no,0.8,Up,1
-64,male,Typical Angina,170,227,normal,left ventricular hypertrophy,155,no,0.6,Flat,0
-66,female,Non-Anginal Pain,146,278,normal,left ventricular hypertrophy,152,no,0.0,Flat,0
-39,female,Non-Anginal Pain,138,220,normal,normal,152,no,0.0,Flat,0
-57,male,Atypical Angina,154,232,normal,left ventricular hypertrophy,164,no,0.0,Up,1
-58,female,Asymptomatic,130,197,normal,normal,131,no,0.6,Flat,0
-57,male,Asymptomatic,110,335,normal,normal,143,y,3.0,Flat,1
-47,male,Non-Anginal Pain,130,253,normal,normal,179,no,0.0,Up,0
-55,female,Asymptomatic,128,205,normal,ST-abnormality,130,y,2.0,Flat,1
-35,male,Atypical Angina,122,192,normal,normal,174,no,0.0,Up,0
-61,male,Asymptomatic,148,203,normal,normal,161,no,0.0,Up,1
-58,male,Asymptomatic,114,318,normal,ST-abnormality,140,no,4.4,Down,1
-58,female,Asymptomatic,170,225,high,left ventricular hypertrophy,146,y,2.8,Flat,1
-58,male,Atypical Angina,125,220,normal,normal,144,no,0.4,Flat,0
-56,male,Atypical Angina,130,221,normal,left ventricular hypertrophy,163,no,0.0,Up,0
-56,male,Atypical Angina,120,240,normal,normal,169,no,0.0,Down,0
-67,male,Non-Anginal Pain,152,212,normal,left ventricular hypertrophy,150,no,0.8,Flat,1
-55,female,Atypical Angina,132,342,normal,normal,166,no,1.2,Up,0
-44,male,Asymptomatic,120,169,normal,normal,144,y,2.8,Down,1
-63,male,Asymptomatic,140,187,normal,left ventricular hypertrophy,144,y,4.0,Up,1
-63,female,Asymptomatic,124,197,normal,normal,136,y,0.0,Flat,1
-41,male,Atypical Angina,120,157,normal,normal,182,no,0.0,Up,0
-59,male,Asymptomatic,164,176,high,left ventricular hypertrophy,90,no,1.0,Flat,1
-57,female,Asymptomatic,140,241,normal,normal,123,y,0.2,Flat,1
-45,male,Typical Angina,110,264,normal,normal,132,no,1.2,Flat,1
-68,male,Asymptomatic,144,193,high,normal,141,no,3.4,Flat,1
-57,male,Asymptomatic,130,131,normal,normal,115,y,1.2,Flat,1
-57,female,Atypical Angina,130,236,normal,left ventricular hypertrophy,174,no,0.0,Flat,1
-38,male,Non-Anginal Pain,138,175,normal,normal,173,no,0.0,Up,0
+40,male,Atypical Angina,140,289,normal,normal,172,no,0.0,Up,no
+49,female,Non-Anginal Pain,160,180,normal,normal,156,no,1.0,Flat,yes
+37,male,Atypical Angina,130,283,normal,ST-abnormality,98,no,0.0,Up,no
+48,female,Asymptomatic,138,214,normal,normal,108,yes,1.5,Flat,yes
+54,male,Non-Anginal Pain,150,195,normal,normal,122,no,0.0,Up,no
+39,male,Non-Anginal Pain,120,339,normal,normal,170,no,0.0,Up,no
+45,female,Atypical Angina,130,237,normal,normal,170,no,0.0,Up,no
+54,male,Atypical Angina,110,208,normal,normal,142,no,0.0,Up,no
+37,male,Asymptomatic,140,207,normal,normal,130,yes,1.5,Flat,yes
+48,female,Atypical Angina,120,284,normal,normal,120,no,0.0,Up,no
+37,female,Non-Anginal Pain,130,211,normal,normal,142,no,0.0,Up,no
+58,male,Atypical Angina,136,164,normal,ST-abnormality,99,yes,2.0,Flat,yes
+39,male,Atypical Angina,120,204,normal,normal,145,no,0.0,Up,no
+49,male,Asymptomatic,140,234,normal,normal,140,yes,1.0,Flat,yes
+42,female,Non-Anginal Pain,115,211,normal,ST-abnormality,137,no,0.0,Up,no
+54,female,Atypical Angina,120,273,normal,normal,150,no,1.5,Flat,no
+38,male,Asymptomatic,110,196,normal,normal,166,no,0.0,Flat,yes
+43,female,Atypical Angina,120,201,normal,normal,165,no,0.0,Up,no
+60,male,Asymptomatic,100,248,normal,normal,125,no,1.0,Flat,yes
+36,male,Atypical Angina,120,267,normal,normal,160,no,3.0,Flat,yes
+43,female,Typical Angina,100,223,normal,normal,142,no,0.0,Up,no
+44,male,Atypical Angina,120,184,normal,normal,142,no,1.0,Flat,no
+49,female,Atypical Angina,124,201,normal,normal,164,no,0.0,Up,no
+44,male,Atypical Angina,150,288,normal,normal,150,yes,3.0,Flat,yes
+40,male,Non-Anginal Pain,130,215,normal,normal,138,no,0.0,Up,no
+36,male,Non-Anginal Pain,130,209,normal,normal,178,no,0.0,Up,no
+53,male,Asymptomatic,124,260,normal,ST-abnormality,112,yes,3.0,Flat,no
+52,male,Atypical Angina,120,284,normal,normal,118,no,0.0,Up,no
+53,female,Atypical Angina,113,468,normal,normal,127,no,0.0,Up,no
+51,male,Atypical Angina,125,188,normal,normal,145,no,0.0,Up,no
+53,male,Non-Anginal Pain,145,518,normal,normal,130,no,0.0,Flat,yes
+56,male,Non-Anginal Pain,130,167,normal,normal,114,no,0.0,Up,no
+54,male,Asymptomatic,125,224,normal,normal,122,no,2.0,Flat,yes
+41,male,Asymptomatic,130,172,normal,ST-abnormality,130,no,2.0,Flat,yes
+43,female,Atypical Angina,150,186,normal,normal,154,no,0.0,Up,no
+32,male,Atypical Angina,125,254,normal,normal,155,no,0.0,Up,no
+65,male,Asymptomatic,140,306,high,normal,87,yes,1.5,Flat,yes
+41,female,Atypical Angina,110,250,normal,ST-abnormality,142,no,0.0,Up,no
+48,female,Atypical Angina,120,177,high,ST-abnormality,148,no,0.0,Up,no
+48,female,Asymptomatic,150,227,normal,normal,130,yes,1.0,Flat,no
+54,female,Atypical Angina,150,230,normal,normal,130,no,0.0,Up,no
+54,female,Non-Anginal Pain,130,294,normal,ST-abnormality,100,yes,0.0,Flat,yes
+35,male,Atypical Angina,150,264,normal,normal,168,no,0.0,Up,no
+52,male,Non-Anginal Pain,140,259,normal,ST-abnormality,170,no,0.0,Up,no
+43,male,Asymptomatic,120,175,normal,normal,120,yes,1.0,Flat,yes
+59,male,Non-Anginal Pain,130,318,normal,normal,120,yes,1.0,Flat,no
+37,male,Asymptomatic,120,223,normal,normal,168,no,0.0,Up,no
+50,male,Atypical Angina,140,216,normal,normal,170,no,0.0,Up,no
+36,male,Non-Anginal Pain,112,340,normal,normal,184,no,1.0,Flat,no
+41,male,Asymptomatic,110,289,normal,normal,170,no,0.0,Flat,yes
+50,male,Asymptomatic,130,233,normal,normal,121,yes,2.0,Flat,yes
+47,female,Asymptomatic,120,205,normal,normal,98,yes,2.0,Flat,yes
+45,male,Atypical Angina,140,224,high,normal,122,no,0.0,Up,no
+41,female,Atypical Angina,130,245,normal,normal,150,no,0.0,Up,no
+52,female,Asymptomatic,130,180,normal,normal,140,yes,1.5,Flat,no
+51,female,Atypical Angina,160,194,normal,normal,170,no,0.0,Up,no
+31,male,Asymptomatic,120,270,normal,normal,153,yes,1.5,Flat,yes
+58,male,Non-Anginal Pain,130,213,normal,ST-abnormality,140,no,0.0,Flat,yes
+54,male,Asymptomatic,150,365,normal,ST-abnormality,134,no,1.0,Up,no
+52,male,Asymptomatic,112,342,normal,ST-abnormality,96,yes,1.0,Flat,yes
+49,male,Atypical Angina,100,253,normal,normal,174,no,0.0,Up,no
+43,female,Non-Anginal Pain,150,254,normal,normal,175,no,0.0,Up,no
+45,male,Asymptomatic,140,224,normal,normal,144,no,0.0,Up,no
+46,male,Asymptomatic,120,277,normal,normal,125,yes,1.0,Flat,yes
+50,female,Atypical Angina,110,202,normal,normal,145,no,0.0,Up,no
+37,female,Atypical Angina,120,260,normal,normal,130,no,0.0,Up,no
+45,female,Asymptomatic,132,297,normal,normal,144,no,0.0,Up,no
+32,male,Atypical Angina,110,225,normal,normal,184,no,0.0,Up,no
+52,male,Asymptomatic,160,246,normal,ST-abnormality,82,yes,4.0,Flat,yes
+44,male,Asymptomatic,150,412,normal,normal,170,no,0.0,Up,no
+57,male,Atypical Angina,140,265,normal,ST-abnormality,145,yes,1.0,Flat,yes
+44,male,Atypical Angina,130,215,normal,normal,135,no,0.0,Up,no
+52,male,Asymptomatic,120,182,normal,normal,150,no,0.0,Flat,yes
+44,female,Asymptomatic,120,218,normal,ST-abnormality,115,no,0.0,Up,no
+55,male,Asymptomatic,140,268,normal,normal,128,yes,1.5,Flat,yes
+46,male,Non-Anginal Pain,150,163,normal,normal,116,no,0.0,Up,no
+32,male,Asymptomatic,118,529,normal,normal,130,no,0.0,Flat,yes
+35,female,Asymptomatic,140,167,normal,normal,150,no,0.0,Up,no
+52,male,Atypical Angina,140,100,normal,normal,138,yes,0.0,Up,no
+49,male,Asymptomatic,130,206,normal,normal,170,no,0.0,Flat,yes
+55,male,Non-Anginal Pain,110,277,normal,normal,160,no,0.0,Up,no
+54,male,Atypical Angina,120,238,normal,normal,154,no,0.0,Up,no
+63,male,Asymptomatic,150,223,normal,normal,115,no,0.0,Flat,yes
+52,male,Atypical Angina,160,196,normal,normal,165,no,0.0,Up,no
+56,male,Asymptomatic,150,213,high,normal,125,yes,1.0,Flat,yes
+66,male,Asymptomatic,140,139,normal,normal,94,yes,1.0,Flat,yes
+65,male,Asymptomatic,170,263,high,normal,112,yes,2.0,Flat,yes
+53,female,Atypical Angina,140,216,normal,normal,142,yes,2.0,Flat,no
+43,male,Typical Angina,120,291,normal,ST-abnormality,155,no,0.0,Flat,yes
+55,male,Asymptomatic,140,229,normal,normal,110,yes,0.5,Flat,no
+49,female,Atypical Angina,110,208,normal,normal,160,no,0.0,Up,no
+39,male,Asymptomatic,130,307,normal,normal,140,no,0.0,Up,no
+52,female,Atypical Angina,120,210,normal,normal,148,no,0.0,Up,no
+48,male,Asymptomatic,160,329,normal,normal,92,yes,1.5,Flat,yes
+39,female,Non-Anginal Pain,110,182,normal,ST-abnormality,180,no,0.0,Up,no
+58,male,Asymptomatic,130,263,normal,normal,140,yes,2.0,Flat,yes
+43,male,Atypical Angina,142,207,normal,normal,138,no,0.0,Up,no
+39,male,Non-Anginal Pain,160,147,high,normal,160,no,0.0,Up,no
+56,male,Asymptomatic,120,85,normal,normal,140,no,0.0,Up,no
+41,male,Atypical Angina,125,269,normal,normal,144,no,0.0,Up,no
+65,male,Asymptomatic,130,275,normal,ST-abnormality,115,yes,1.0,Flat,yes
+51,male,Asymptomatic,130,179,normal,normal,100,no,0.0,Up,no
+40,female,Asymptomatic,150,392,normal,normal,130,no,2.0,Flat,yes
+40,male,Asymptomatic,120,466,high,normal,152,yes,1.0,Flat,yes
+46,male,Asymptomatic,118,186,normal,normal,124,no,0.0,Flat,yes
+57,male,Atypical Angina,140,260,high,normal,140,no,0.0,Up,no
+48,female,Asymptomatic,120,254,normal,ST-abnormality,110,no,0.0,Up,no
+34,male,Atypical Angina,150,214,normal,ST-abnormality,168,no,0.0,Up,no
+50,male,Asymptomatic,140,129,normal,normal,135,no,0.0,Up,no
+39,male,Atypical Angina,190,241,normal,normal,106,no,0.0,Up,no
+59,female,Atypical Angina,130,188,normal,normal,124,no,1.0,Flat,no
+57,male,Asymptomatic,150,255,normal,normal,92,yes,3.0,Flat,yes
+47,male,Asymptomatic,140,276,high,normal,125,yes,0.0,Up,no
+38,male,Atypical Angina,140,297,normal,normal,150,no,0.0,Up,no
+49,female,Non-Anginal Pain,130,207,normal,ST-abnormality,135,no,0.0,Up,no
+33,female,Asymptomatic,100,246,normal,normal,150,yes,1.0,Flat,yes
+38,male,Asymptomatic,120,282,normal,normal,170,no,0.0,Flat,yes
+59,female,Asymptomatic,130,338,high,ST-abnormality,130,yes,1.5,Flat,yes
+35,female,Typical Angina,120,160,normal,ST-abnormality,185,no,0.0,Up,no
+34,male,Typical Angina,140,156,normal,normal,180,no,0.0,Flat,yes
+47,female,Non-Anginal Pain,135,248,high,normal,170,no,0.0,Flat,yes
+52,female,Non-Anginal Pain,125,272,normal,normal,139,no,0.0,Up,no
+46,male,Asymptomatic,110,240,normal,ST-abnormality,140,no,0.0,Up,no
+58,female,Atypical Angina,180,393,normal,normal,110,yes,1.0,Flat,yes
+58,male,Atypical Angina,130,230,normal,normal,150,no,0.0,Up,no
+54,male,Atypical Angina,120,246,normal,normal,110,no,0.0,Up,no
+34,female,Atypical Angina,130,161,normal,normal,190,no,0.0,Up,no
+48,female,Asymptomatic,108,163,normal,normal,175,no,2.0,Up,no
+54,female,Atypical Angina,120,230,high,normal,140,no,0.0,Up,no
+42,male,Non-Anginal Pain,120,228,normal,normal,152,yes,1.5,Flat,no
+38,male,Non-Anginal Pain,145,292,normal,normal,130,no,0.0,Up,no
+46,male,Asymptomatic,110,202,normal,normal,150,yes,0.0,Flat,yes
+56,male,Asymptomatic,170,388,normal,ST-abnormality,122,yes,2.0,Flat,yes
+56,male,Asymptomatic,150,230,normal,ST-abnormality,124,yes,1.5,Flat,yes
+61,female,Asymptomatic,130,294,normal,ST-abnormality,120,yes,1.0,Flat,no
+49,male,Non-Anginal Pain,115,265,normal,normal,175,no,0.0,Flat,yes
+43,female,Atypical Angina,120,215,normal,ST-abnormality,175,no,0.0,Up,no
+39,male,Atypical Angina,120,241,normal,ST-abnormality,146,no,2.0,Up,no
+54,male,Asymptomatic,140,166,normal,normal,118,yes,0.0,Flat,yes
+43,male,Asymptomatic,150,247,normal,normal,130,yes,2.0,Flat,yes
+52,male,Asymptomatic,160,331,normal,normal,94,yes,2.5,Flat,yes
+50,male,Asymptomatic,140,341,normal,ST-abnormality,125,yes,2.5,Flat,yes
+47,male,Asymptomatic,160,291,normal,ST-abnormality,158,yes,3.0,Flat,yes
+53,male,Asymptomatic,140,243,normal,normal,155,no,0.0,Up,no
+56,female,Atypical Angina,120,279,normal,normal,150,no,1.0,Flat,yes
+39,male,Asymptomatic,110,273,normal,normal,132,no,0.0,Up,no
+42,male,Atypical Angina,120,198,normal,normal,155,no,0.0,Up,no
+43,female,Atypical Angina,120,249,normal,ST-abnormality,176,no,0.0,Up,no
+50,male,Atypical Angina,120,168,normal,normal,160,no,0.0,Up,no
+54,male,Asymptomatic,130,603,high,normal,125,yes,1.0,Flat,yes
+39,male,Atypical Angina,130,215,normal,normal,120,no,0.0,Up,no
+48,male,Atypical Angina,100,159,normal,normal,100,no,0.0,Up,no
+40,male,Atypical Angina,130,275,normal,normal,150,no,0.0,Up,no
+55,male,Asymptomatic,120,270,normal,normal,140,no,0.0,Up,no
+41,male,Atypical Angina,120,291,normal,ST-abnormality,160,no,0.0,Up,no
+56,male,Asymptomatic,155,342,high,normal,150,yes,3.0,Flat,yes
+38,male,Asymptomatic,110,190,normal,normal,150,yes,1.0,Flat,yes
+49,male,Asymptomatic,140,185,normal,normal,130,no,0.0,Up,no
+44,male,Asymptomatic,130,290,normal,normal,100,yes,2.0,Flat,yes
+54,male,Atypical Angina,160,195,normal,ST-abnormality,130,no,1.0,Up,no
+59,male,Asymptomatic,140,264,high,left ventricular hypertrophy,119,yes,0.0,Flat,yes
+49,male,Asymptomatic,128,212,normal,normal,96,yes,0.0,Flat,yes
+47,male,Atypical Angina,160,263,normal,normal,174,no,0.0,Up,no
+42,male,Atypical Angina,120,196,normal,normal,150,no,0.0,Up,no
+52,female,Atypical Angina,140,225,normal,normal,140,no,0.0,Up,no
+46,male,Typical Angina,140,272,high,normal,175,no,2.0,Flat,yes
+50,male,Asymptomatic,140,231,normal,ST-abnormality,140,yes,5.0,Flat,yes
+48,male,Atypical Angina,140,238,normal,normal,118,no,0.0,Up,no
+58,male,Asymptomatic,135,222,normal,normal,100,no,0.0,Up,no
+58,male,Non-Anginal Pain,140,179,normal,normal,160,no,0.0,Up,no
+29,male,Atypical Angina,120,243,normal,normal,160,no,0.0,Up,no
+40,male,Non-Anginal Pain,140,235,normal,normal,188,no,0.0,Up,no
+53,male,Atypical Angina,140,320,normal,normal,162,no,0.0,Up,no
+49,male,Non-Anginal Pain,140,187,normal,normal,172,no,0.0,Up,no
+52,male,Asymptomatic,140,266,normal,normal,134,yes,2.0,Flat,yes
+43,male,Asymptomatic,140,288,normal,normal,135,yes,2.0,Flat,yes
+54,male,Asymptomatic,140,216,normal,normal,105,no,1.5,Flat,yes
+59,male,Atypical Angina,140,287,normal,normal,150,no,0.0,Up,no
+37,male,Non-Anginal Pain,130,194,normal,normal,150,no,0.0,Up,no
+46,female,Asymptomatic,130,238,normal,normal,90,no,0.0,Up,no
+52,male,Asymptomatic,130,225,normal,normal,120,yes,2.0,Flat,yes
+51,male,Atypical Angina,130,224,normal,normal,150,no,0.0,Up,no
+52,male,Asymptomatic,140,404,normal,normal,124,yes,2.0,Flat,yes
+46,male,Asymptomatic,110,238,normal,ST-abnormality,140,yes,1.0,Flat,no
+54,female,Atypical Angina,160,312,normal,normal,130,no,0.0,Up,no
+58,male,Non-Anginal Pain,160,211,high,ST-abnormality,92,no,0.0,Flat,yes
+58,male,Atypical Angina,130,251,normal,normal,110,no,0.0,Up,no
+41,male,Asymptomatic,120,237,high,normal,138,yes,1.0,Flat,yes
+50,female,Asymptomatic,120,328,normal,normal,110,yes,1.0,Flat,no
+53,male,Asymptomatic,180,285,normal,ST-abnormality,120,yes,1.5,Flat,yes
+46,male,Asymptomatic,180,280,normal,ST-abnormality,120,no,0.0,Up,no
+50,male,Atypical Angina,170,209,normal,ST-abnormality,116,no,0.0,Up,no
+48,male,Atypical Angina,130,245,normal,normal,160,no,0.0,Up,no
+45,male,Non-Anginal Pain,135,192,normal,normal,110,no,0.0,Up,no
+41,female,Atypical Angina,125,184,normal,normal,180,no,0.0,Up,no
+62,female,Typical Angina,160,193,normal,normal,116,no,0.0,Up,no
+49,male,Asymptomatic,120,297,normal,normal,132,no,1.0,Flat,no
+42,male,Atypical Angina,150,268,normal,normal,136,no,0.0,Up,no
+53,male,Asymptomatic,120,246,normal,normal,116,yes,0.0,Flat,yes
+57,female,Typical Angina,130,308,normal,normal,98,no,1.0,Flat,no
+47,male,Typical Angina,110,249,normal,normal,150,no,0.0,Up,no
+46,male,Non-Anginal Pain,120,230,normal,normal,150,no,0.0,Up,no
+42,male,Non-Anginal Pain,160,147,normal,normal,146,no,0.0,Up,no
+31,female,Atypical Angina,100,219,normal,ST-abnormality,150,no,0.0,Up,no
+56,male,Atypical Angina,130,184,normal,normal,100,no,0.0,Up,no
+50,male,Asymptomatic,150,215,normal,normal,140,yes,0.0,Up,no
+35,male,Atypical Angina,120,308,normal,left ventricular hypertrophy,180,no,0.0,Up,no
+35,male,Atypical Angina,110,257,normal,normal,140,no,0.0,Flat,yes
+28,male,Atypical Angina,130,132,normal,left ventricular hypertrophy,185,no,0.0,Up,no
+54,male,Asymptomatic,125,216,normal,normal,140,no,0.0,Flat,yes
+48,male,Asymptomatic,106,263,high,normal,110,no,0.0,Flat,yes
+50,female,Non-Anginal Pain,140,288,normal,normal,140,yes,0.0,Flat,yes
+56,male,Non-Anginal Pain,130,276,normal,normal,128,yes,1.0,Up,no
+56,female,Non-Anginal Pain,130,219,normal,ST-abnormality,164,no,0.0,Up,no
+47,male,Asymptomatic,150,226,normal,normal,98,yes,1.5,Flat,yes
+30,female,Typical Angina,170,237,normal,ST-abnormality,170,no,0.0,Up,no
+39,male,Asymptomatic,110,280,normal,normal,150,no,0.0,Flat,yes
+54,male,Non-Anginal Pain,120,217,normal,normal,137,no,0.0,Up,no
+55,male,Atypical Angina,140,196,normal,normal,150,no,0.0,Up,no
+29,male,Atypical Angina,140,263,normal,normal,170,no,0.0,Up,no
+46,male,Asymptomatic,130,222,normal,normal,112,no,0.0,Flat,yes
+51,female,Asymptomatic,160,303,normal,normal,150,yes,1.0,Flat,yes
+48,female,Non-Anginal Pain,120,195,normal,normal,125,no,0.0,Up,no
+33,male,Non-Anginal Pain,120,298,normal,normal,185,no,0.0,Up,no
+55,male,Atypical Angina,120,256,high,normal,137,no,0.0,Up,no
+50,male,Asymptomatic,145,264,normal,normal,150,no,0.0,Flat,yes
+53,male,Non-Anginal Pain,120,195,normal,normal,140,no,0.0,Up,no
+38,male,Asymptomatic,92,117,normal,normal,134,yes,2.5,Flat,yes
+41,male,Atypical Angina,120,295,normal,normal,170,no,0.0,Up,no
+37,female,Asymptomatic,130,173,normal,ST-abnormality,184,no,0.0,Up,no
+37,male,Asymptomatic,130,315,normal,normal,158,no,0.0,Up,no
+40,male,Non-Anginal Pain,130,281,normal,normal,167,no,0.0,Up,no
+38,female,Atypical Angina,120,275,normal,normal,129,no,0.0,Up,no
+41,male,Asymptomatic,112,250,normal,normal,142,no,0.0,Up,no
+54,female,Atypical Angina,140,309,normal,ST-abnormality,140,no,0.0,Up,no
+39,male,Atypical Angina,120,200,normal,normal,160,yes,1.0,Flat,no
+41,male,Asymptomatic,120,336,normal,normal,118,yes,3.0,Flat,yes
+55,male,Typical Angina,140,295,normal,normal,136,no,0.0,Flat,yes
+48,male,Asymptomatic,160,355,normal,normal,99,yes,2.0,Flat,yes
+48,male,Asymptomatic,160,193,normal,normal,102,yes,3.0,Flat,yes
+55,male,Atypical Angina,145,326,normal,normal,155,no,0.0,Up,no
+54,male,Asymptomatic,200,198,normal,normal,142,yes,2.0,Flat,yes
+55,male,Atypical Angina,160,292,high,normal,143,yes,2.0,Flat,yes
+43,female,Atypical Angina,120,266,normal,normal,118,no,0.0,Up,no
+48,male,Asymptomatic,160,268,normal,normal,103,yes,1.0,Flat,yes
+54,male,Typical Angina,120,171,normal,normal,137,no,2.0,Up,no
+54,male,Non-Anginal Pain,120,237,normal,normal,150,yes,1.5,Flat,yes
+48,male,Asymptomatic,122,275,high,ST-abnormality,150,yes,2.0,Down,yes
+45,male,Asymptomatic,130,219,normal,ST-abnormality,130,yes,1.0,Flat,yes
+49,male,Asymptomatic,130,341,normal,normal,120,yes,1.0,Flat,yes
+44,male,Asymptomatic,135,491,normal,normal,135,no,0.0,Flat,yes
+48,male,Asymptomatic,120,260,normal,normal,115,no,2.0,Flat,yes
+61,male,Asymptomatic,125,292,normal,ST-abnormality,115,yes,0.0,Up,no
+62,male,Atypical Angina,140,271,normal,normal,152,no,1.0,Up,no
+55,male,Asymptomatic,145,248,normal,normal,96,yes,2.0,Flat,yes
+53,female,Non-Anginal Pain,120,274,normal,normal,130,no,0.0,Up,no
+55,female,Atypical Angina,130,394,normal,left ventricular hypertrophy,150,no,0.0,Up,no
+36,male,Non-Anginal Pain,150,160,normal,normal,172,no,0.0,Up,no
+51,female,Non-Anginal Pain,150,200,normal,normal,120,no,0.5,Up,no
+55,female,Atypical Angina,122,320,normal,normal,155,no,0.0,Up,no
+46,male,Atypical Angina,140,275,normal,normal,165,yes,0.0,Up,no
+54,female,Atypical Angina,120,221,normal,normal,138,no,1.0,Up,no
+46,male,Asymptomatic,120,231,normal,normal,115,yes,0.0,Flat,yes
+59,male,Asymptomatic,130,126,normal,normal,125,no,0.0,Flat,yes
+47,male,Non-Anginal Pain,140,193,normal,normal,145,yes,1.0,Flat,yes
+54,male,Atypical Angina,160,305,normal,normal,175,no,0.0,Up,no
+52,male,Asymptomatic,130,298,normal,normal,110,yes,1.0,Flat,yes
+34,male,Atypical Angina,98,220,normal,normal,150,no,0.0,Up,no
+54,male,Asymptomatic,130,242,normal,normal,91,yes,1.0,Flat,yes
+47,female,Non-Anginal Pain,130,235,normal,normal,145,no,2.0,Flat,no
+45,male,Asymptomatic,120,225,normal,normal,140,no,0.0,Up,no
+32,female,Atypical Angina,105,198,normal,normal,165,no,0.0,Up,no
+55,male,Asymptomatic,140,201,normal,normal,130,yes,3.0,Flat,yes
+55,male,Non-Anginal Pain,120,220,normal,left ventricular hypertrophy,134,no,0.0,Up,no
+45,female,Atypical Angina,180,295,normal,normal,180,no,0.0,Up,no
+59,male,Non-Anginal Pain,180,213,normal,normal,100,no,0.0,Up,no
+51,male,Non-Anginal Pain,135,160,normal,normal,150,no,2.0,Flat,yes
+52,male,Asymptomatic,170,223,normal,normal,126,yes,1.5,Flat,yes
+57,female,Asymptomatic,180,347,normal,ST-abnormality,126,yes,0.8,Flat,no
+54,female,Atypical Angina,130,253,normal,ST-abnormality,155,no,0.0,Up,no
+60,male,Non-Anginal Pain,120,246,normal,left ventricular hypertrophy,135,no,0.0,Up,no
+49,male,Asymptomatic,150,222,normal,normal,122,no,2.0,Flat,yes
+51,female,Non-Anginal Pain,130,220,normal,normal,160,yes,2.0,Up,no
+55,female,Atypical Angina,110,344,normal,ST-abnormality,160,no,0.0,Up,no
+42,male,Asymptomatic,140,358,normal,normal,170,no,0.0,Up,no
+51,female,Non-Anginal Pain,110,190,normal,normal,120,no,0.0,Up,no
+59,male,Asymptomatic,140,169,normal,normal,140,no,0.0,Up,no
+53,male,Atypical Angina,120,181,normal,normal,132,no,0.0,Up,no
+48,female,Atypical Angina,133,308,normal,ST-abnormality,156,no,2.0,Up,no
+36,male,Atypical Angina,120,166,normal,normal,180,no,0.0,Up,no
+48,male,Non-Anginal Pain,110,211,normal,normal,138,no,0.0,Up,no
+47,female,Atypical Angina,140,257,normal,normal,135,no,1.0,Up,no
+53,male,Asymptomatic,130,182,normal,normal,148,no,0.0,Up,no
+65,male,Asymptomatic,115,0,normal,normal,93,yes,0.0,Flat,yes
+32,male,Typical Angina,95,0,high,normal,127,no,0.7,Up,yes
+61,male,Asymptomatic,105,0,high,normal,110,yes,1.5,Up,yes
+50,male,Asymptomatic,145,0,high,normal,139,yes,0.7,Flat,yes
+57,male,Asymptomatic,110,0,high,ST-abnormality,131,yes,1.4,Up,yes
+51,male,Asymptomatic,110,0,high,normal,92,no,0.0,Flat,yes
+47,male,Asymptomatic,110,0,high,ST-abnormality,149,no,2.1,Up,yes
+60,male,Asymptomatic,160,0,high,normal,149,no,0.4,Flat,yes
+55,male,Atypical Angina,140,0,normal,ST-abnormality,150,no,0.2,Up,no
+53,male,Asymptomatic,125,0,high,normal,120,no,1.5,Up,yes
+62,female,Asymptomatic,120,0,high,ST-abnormality,123,yes,1.7,Down,yes
+51,male,Asymptomatic,95,0,high,normal,126,no,2.2,Flat,yes
+51,female,Asymptomatic,120,0,high,normal,127,yes,1.5,Up,yes
+55,male,Asymptomatic,115,0,high,normal,155,no,0.1,Flat,yes
+53,male,Atypical Angina,130,0,normal,ST-abnormality,120,no,0.7,Down,no
+58,male,Asymptomatic,115,0,high,normal,138,no,0.5,Up,yes
+57,male,Asymptomatic,95,0,high,normal,182,no,0.7,Down,yes
+65,male,Asymptomatic,155,0,normal,normal,154,no,1.0,Up,no
+60,male,Asymptomatic,125,0,high,normal,110,no,0.1,Up,yes
+41,male,Asymptomatic,125,0,high,normal,176,no,1.6,Up,yes
+34,male,Asymptomatic,115,0,high,normal,154,no,0.2,Up,yes
+53,male,Asymptomatic,80,0,normal,normal,141,yes,2.0,Down,no
+74,male,Atypical Angina,145,0,high,ST-abnormality,123,no,1.3,Up,yes
+57,male,Non-Anginal Pain,105,0,high,normal,148,no,0.3,Flat,yes
+56,male,Asymptomatic,140,0,high,normal,121,yes,1.8,Up,yes
+61,male,Asymptomatic,130,0,high,normal,77,no,2.5,Flat,yes
+68,male,Asymptomatic,145,0,high,normal,136,no,1.8,Up,yes
+59,male,Non-Anginal Pain,125,0,high,normal,175,no,2.6,Flat,yes
+63,male,Asymptomatic,100,0,high,normal,109,no,-0.9,Flat,yes
+38,female,Asymptomatic,105,0,high,normal,166,no,2.8,Up,yes
+62,male,Asymptomatic,115,0,high,normal,128,yes,2.5,Down,yes
+46,male,Asymptomatic,100,0,high,ST-abnormality,133,no,-2.6,Flat,yes
+42,male,Asymptomatic,105,0,high,normal,128,yes,-1.5,Down,yes
+45,male,Non-Anginal Pain,110,0,normal,normal,138,no,-0.1,Up,no
+59,male,Asymptomatic,125,0,high,normal,119,yes,0.9,Up,yes
+52,male,Asymptomatic,95,0,high,normal,82,yes,0.8,Flat,yes
+60,male,Asymptomatic,130,0,high,ST-abnormality,130,yes,1.1,Down,yes
+60,male,Non-Anginal Pain,115,0,high,normal,143,no,2.4,Up,yes
+56,male,Asymptomatic,115,0,high,ST-abnormality,82,no,-1.0,Up,yes
+38,male,Non-Anginal Pain,100,0,normal,normal,179,no,-1.1,Up,no
+40,male,Asymptomatic,95,0,high,ST-abnormality,144,no,0.0,Up,yes
+51,male,Asymptomatic,130,0,high,normal,170,no,-0.7,Up,yes
+62,male,Typical Angina,120,0,high,left ventricular hypertrophy,134,no,-0.8,Flat,yes
+72,male,Non-Anginal Pain,160,0,normal,left ventricular hypertrophy,114,no,1.6,Flat,no
+63,male,Asymptomatic,150,0,high,ST-abnormality,154,no,3.7,Up,yes
+63,male,Asymptomatic,140,0,high,left ventricular hypertrophy,149,no,2.0,Up,yes
+64,female,Asymptomatic,95,0,high,normal,145,no,1.1,Down,yes
+43,male,Asymptomatic,100,0,high,normal,122,no,1.5,Down,yes
+64,male,Asymptomatic,110,0,high,normal,114,yes,1.3,Down,yes
+61,male,Asymptomatic,110,0,high,normal,113,no,1.4,Flat,yes
+52,male,Asymptomatic,130,0,high,normal,120,no,0.0,Flat,yes
+51,male,Asymptomatic,120,0,high,normal,104,no,0.0,Flat,yes
+69,male,Asymptomatic,135,0,normal,normal,130,no,0.0,Flat,yes
+59,male,Asymptomatic,120,0,normal,normal,115,no,0.0,Flat,yes
+48,male,Asymptomatic,115,0,high,normal,128,no,0.0,Flat,yes
+69,male,Asymptomatic,137,0,normal,ST-abnormality,104,yes,1.6,Flat,yes
+36,male,Asymptomatic,110,0,high,normal,125,yes,1.0,Flat,yes
+53,male,Asymptomatic,120,0,high,normal,120,no,0.0,Flat,yes
+43,male,Asymptomatic,140,0,normal,ST-abnormality,140,yes,0.5,Up,yes
+56,male,Asymptomatic,120,0,normal,ST-abnormality,100,yes,-1.0,Down,yes
+58,male,Asymptomatic,130,0,normal,ST-abnormality,100,yes,1.0,Flat,yes
+55,male,Asymptomatic,120,0,normal,ST-abnormality,92,no,0.3,Up,yes
+67,male,Typical Angina,145,0,normal,left ventricular hypertrophy,125,no,0.0,Flat,yes
+46,male,Asymptomatic,115,0,normal,normal,113,yes,1.5,Flat,yes
+53,male,Atypical Angina,120,0,normal,normal,95,no,0.0,Flat,yes
+38,male,Non-Anginal Pain,115,0,normal,normal,128,yes,0.0,Flat,yes
+53,male,Non-Anginal Pain,105,0,normal,normal,115,no,0.0,Flat,yes
+62,male,Non-Anginal Pain,160,0,normal,normal,72,yes,0.0,Flat,yes
+47,male,Asymptomatic,160,0,normal,normal,124,yes,0.0,Flat,yes
+56,male,Non-Anginal Pain,155,0,normal,ST-abnormality,99,no,0.0,Flat,yes
+56,male,Asymptomatic,120,0,normal,ST-abnormality,148,no,0.0,Flat,yes
+56,male,Non-Anginal Pain,120,0,normal,normal,97,no,0.0,Flat,no
+64,female,Asymptomatic,200,0,normal,normal,140,yes,1.0,Flat,yes
+61,male,Asymptomatic,150,0,normal,normal,117,yes,2.0,Flat,yes
+68,male,Asymptomatic,135,0,normal,ST-abnormality,120,yes,0.0,Up,yes
+57,male,Asymptomatic,140,0,normal,normal,120,yes,2.0,Flat,yes
+63,male,Asymptomatic,150,0,normal,normal,86,yes,2.0,Flat,yes
+60,male,Asymptomatic,135,0,normal,normal,63,yes,0.5,Up,yes
+66,male,Asymptomatic,150,0,normal,normal,108,yes,2.0,Flat,yes
+63,male,Asymptomatic,185,0,normal,normal,98,yes,0.0,Up,yes
+59,male,Asymptomatic,135,0,normal,normal,115,yes,1.0,Flat,yes
+61,male,Asymptomatic,125,0,normal,normal,105,yes,0.0,Down,yes
+73,female,Non-Anginal Pain,160,0,normal,ST-abnormality,121,no,0.0,Up,yes
+47,male,Non-Anginal Pain,155,0,normal,normal,118,yes,1.0,Flat,yes
+65,male,Asymptomatic,160,0,high,ST-abnormality,122,no,1.2,Flat,yes
+70,male,Asymptomatic,140,0,high,normal,157,yes,2.0,Flat,yes
+50,male,Asymptomatic,120,0,normal,ST-abnormality,156,yes,0.0,Up,yes
+60,male,Asymptomatic,160,0,normal,ST-abnormality,99,yes,0.5,Flat,yes
+50,male,Asymptomatic,115,0,normal,normal,120,yes,0.5,Flat,yes
+43,male,Asymptomatic,115,0,normal,normal,145,yes,2.0,Flat,yes
+38,female,Asymptomatic,110,0,normal,normal,156,no,0.0,Flat,yes
+54,male,Asymptomatic,120,0,normal,normal,155,no,0.0,Flat,yes
+61,male,Asymptomatic,150,0,normal,normal,105,yes,0.0,Flat,yes
+42,male,Asymptomatic,145,0,normal,normal,99,yes,0.0,Flat,yes
+53,male,Asymptomatic,130,0,normal,left ventricular hypertrophy,135,yes,1.0,Flat,yes
+55,male,Asymptomatic,140,0,normal,normal,83,no,0.0,Flat,yes
+61,male,Asymptomatic,160,0,high,ST-abnormality,145,no,1.0,Flat,yes
+51,male,Asymptomatic,140,0,normal,normal,60,no,0.0,Flat,yes
+70,male,Asymptomatic,115,0,normal,ST-abnormality,92,yes,0.0,Flat,yes
+61,male,Asymptomatic,130,0,normal,left ventricular hypertrophy,115,no,0.0,Flat,yes
+38,male,Asymptomatic,150,0,high,normal,120,yes,0.7,Flat,yes
+57,male,Asymptomatic,160,0,high,normal,98,yes,2.0,Flat,yes
+38,male,Asymptomatic,135,0,high,normal,150,no,0.0,Flat,yes
+62,female,Typical Angina,140,0,high,normal,143,no,0.0,Flat,yes
+58,male,Asymptomatic,170,0,high,ST-abnormality,105,yes,0.0,Flat,yes
+52,male,Asymptomatic,165,0,high,normal,122,yes,1.0,Up,yes
+61,male,Non-Anginal Pain,200,0,high,ST-abnormality,70,no,0.0,Flat,yes
+50,female,Asymptomatic,160,0,high,normal,110,no,0.0,Flat,yes
+51,male,Asymptomatic,130,0,high,ST-abnormality,163,no,0.0,Flat,yes
+65,male,Asymptomatic,145,0,high,ST-abnormality,67,no,0.7,Flat,yes
+52,male,Asymptomatic,135,0,high,normal,128,yes,2.0,Flat,yes
+47,male,Non-Anginal Pain,110,0,high,normal,120,yes,0.0,Flat,yes
+35,male,Asymptomatic,120,0,high,normal,130,yes,1.2,Flat,yes
+57,male,Asymptomatic,140,0,high,normal,100,yes,0.0,Flat,yes
+62,male,Asymptomatic,115,0,high,normal,72,yes,-0.5,Flat,yes
+59,male,Asymptomatic,110,0,high,normal,94,no,0.0,Flat,yes
+53,male,Non-Anginal Pain,160,0,high,left ventricular hypertrophy,122,yes,0.0,Flat,yes
+62,male,Asymptomatic,150,0,high,ST-abnormality,78,no,2.0,Flat,yes
+54,male,Asymptomatic,180,0,high,normal,150,no,1.5,Flat,yes
+56,male,Asymptomatic,125,0,high,normal,103,yes,1.0,Flat,yes
+56,male,Non-Anginal Pain,125,0,high,normal,98,no,-2.0,Flat,yes
+54,male,Asymptomatic,130,0,high,normal,110,yes,3.0,Flat,yes
+66,female,Asymptomatic,155,0,high,normal,90,no,0.0,Flat,yes
+63,male,Asymptomatic,140,260,normal,ST-abnormality,112,yes,3.0,Flat,yes
+44,male,Asymptomatic,130,209,normal,ST-abnormality,127,no,0.0,Up,no
+60,male,Asymptomatic,132,218,normal,ST-abnormality,140,yes,1.5,Down,yes
+55,male,Asymptomatic,142,228,normal,ST-abnormality,149,yes,2.5,Up,yes
+66,male,Non-Anginal Pain,110,213,high,left ventricular hypertrophy,99,yes,1.3,Flat,no
+66,male,Non-Anginal Pain,120,0,normal,ST-abnormality,120,no,-0.5,Up,no
+65,male,Asymptomatic,150,236,high,ST-abnormality,105,yes,0.0,Flat,yes
+60,male,Non-Anginal Pain,180,0,normal,ST-abnormality,140,yes,1.5,Flat,no
+60,male,Non-Anginal Pain,120,0,high,normal,141,yes,2.0,Up,yes
+60,male,Atypical Angina,160,267,high,ST-abnormality,157,no,0.5,Flat,yes
+56,male,Atypical Angina,126,166,normal,ST-abnormality,140,no,0.0,Up,no
+59,male,Asymptomatic,140,0,normal,ST-abnormality,117,yes,1.0,Flat,yes
+62,male,Asymptomatic,110,0,normal,normal,120,yes,0.5,Flat,yes
+63,male,Non-Anginal Pain,133,0,normal,left ventricular hypertrophy,120,yes,1.0,Flat,yes
+57,male,Asymptomatic,128,0,high,ST-abnormality,148,yes,1.0,Flat,yes
+62,male,Asymptomatic,120,220,normal,ST-abnormality,86,no,0.0,Up,no
+63,male,Asymptomatic,170,177,normal,normal,84,yes,2.5,Down,yes
+46,male,Asymptomatic,110,236,normal,normal,125,yes,2.0,Flat,yes
+63,male,Asymptomatic,126,0,normal,ST-abnormality,120,no,1.5,Down,no
+60,male,Asymptomatic,152,0,normal,ST-abnormality,118,yes,0.0,Up,no
+58,male,Asymptomatic,116,0,normal,normal,124,no,1.0,Up,yes
+64,male,Asymptomatic,120,0,high,ST-abnormality,106,no,2.0,Flat,yes
+63,male,Non-Anginal Pain,130,0,normal,ST-abnormality,111,yes,0.0,Flat,yes
+74,male,Non-Anginal Pain,138,0,normal,normal,116,no,0.2,Up,no
+52,male,Non-Anginal Pain,128,0,normal,ST-abnormality,180,no,3.0,Up,yes
+69,male,Asymptomatic,130,0,high,ST-abnormality,129,no,1.0,Flat,yes
+51,male,Asymptomatic,128,0,high,ST-abnormality,125,yes,1.2,Flat,yes
+60,male,Asymptomatic,130,186,high,ST-abnormality,140,yes,0.5,Flat,yes
+56,male,Asymptomatic,120,100,normal,normal,120,yes,1.5,Flat,yes
+55,male,Non-Anginal Pain,136,228,normal,ST-abnormality,124,yes,1.6,Flat,yes
+54,male,Asymptomatic,130,0,normal,ST-abnormality,117,yes,1.4,Flat,yes
+77,male,Asymptomatic,124,171,normal,ST-abnormality,110,yes,2.0,Up,yes
+63,male,Asymptomatic,160,230,high,normal,105,yes,1.0,Flat,yes
+55,male,Non-Anginal Pain,0,0,normal,normal,155,no,1.5,Flat,yes
+52,male,Non-Anginal Pain,122,0,normal,normal,110,yes,2.0,Down,yes
+64,male,Asymptomatic,144,0,normal,ST-abnormality,122,yes,1.0,Flat,yes
+60,male,Asymptomatic,140,281,normal,ST-abnormality,118,yes,1.5,Flat,yes
+60,male,Asymptomatic,120,0,normal,normal,133,yes,2.0,Up,no
+58,male,Asymptomatic,136,203,high,normal,123,yes,1.2,Flat,yes
+59,male,Asymptomatic,154,0,normal,ST-abnormality,131,yes,1.5,Up,no
+61,male,Non-Anginal Pain,120,0,normal,normal,80,yes,0.0,Flat,yes
+40,male,Asymptomatic,125,0,high,normal,165,no,0.0,Flat,yes
+61,male,Asymptomatic,134,0,high,ST-abnormality,86,no,1.5,Flat,yes
+41,male,Asymptomatic,104,0,normal,ST-abnormality,111,no,0.0,Up,no
+57,male,Asymptomatic,139,277,high,ST-abnormality,118,yes,1.9,Flat,yes
+63,male,Asymptomatic,136,0,normal,normal,84,yes,0.0,Flat,yes
+59,male,Asymptomatic,122,233,normal,normal,117,yes,1.3,Down,yes
+51,male,Asymptomatic,128,0,normal,normal,107,no,0.0,Up,no
+59,male,Non-Anginal Pain,131,0,normal,normal,128,yes,2.0,Down,yes
+42,male,Non-Anginal Pain,134,240,normal,normal,160,no,0.0,Up,no
+55,male,Non-Anginal Pain,120,0,normal,ST-abnormality,125,yes,2.5,Flat,yes
+63,female,Atypical Angina,132,0,normal,normal,130,no,0.1,Up,no
+62,male,Asymptomatic,152,153,normal,ST-abnormality,97,yes,1.6,Up,yes
+56,male,Atypical Angina,124,224,high,normal,161,no,2.0,Flat,no
+53,male,Asymptomatic,126,0,normal,normal,106,no,0.0,Flat,yes
+68,male,Asymptomatic,138,0,normal,normal,130,yes,3.0,Flat,yes
+53,male,Asymptomatic,154,0,high,ST-abnormality,140,yes,1.5,Flat,yes
+60,male,Non-Anginal Pain,141,316,high,ST-abnormality,122,yes,1.7,Flat,yes
+62,male,Atypical Angina,131,0,normal,normal,130,no,0.1,Up,no
+59,male,Asymptomatic,178,0,high,left ventricular hypertrophy,120,yes,0.0,Flat,yes
+51,male,Asymptomatic,132,218,high,left ventricular hypertrophy,139,no,0.1,Up,no
+61,male,Asymptomatic,110,0,high,normal,108,yes,2.0,Down,yes
+57,male,Asymptomatic,130,311,high,ST-abnormality,148,yes,2.0,Flat,yes
+56,male,Non-Anginal Pain,170,0,normal,left ventricular hypertrophy,123,yes,2.5,Flat,yes
+58,male,Atypical Angina,126,0,high,normal,110,yes,2.0,Flat,yes
+69,male,Non-Anginal Pain,140,0,high,ST-abnormality,118,no,2.5,Down,yes
+67,male,Typical Angina,142,270,high,normal,125,no,2.5,Up,yes
+58,male,Asymptomatic,120,0,normal,left ventricular hypertrophy,106,yes,1.5,Down,yes
+65,male,Asymptomatic,134,0,normal,normal,112,yes,1.1,Flat,yes
+63,male,Atypical Angina,139,217,high,ST-abnormality,128,yes,1.2,Flat,yes
+55,male,Atypical Angina,110,214,high,ST-abnormality,180,no,0.4,Up,no
+57,male,Asymptomatic,140,214,normal,ST-abnormality,144,yes,2.0,Flat,yes
+65,male,Typical Angina,140,252,normal,normal,135,no,0.3,Up,no
+54,male,Asymptomatic,136,220,normal,normal,140,yes,3.0,Flat,yes
+72,male,Non-Anginal Pain,120,214,normal,normal,102,yes,1.0,Flat,yes
+75,male,Asymptomatic,170,203,high,ST-abnormality,108,no,0.0,Flat,yes
+49,male,Typical Angina,130,0,normal,ST-abnormality,145,no,3.0,Flat,yes
+51,male,Non-Anginal Pain,137,339,normal,normal,127,yes,1.7,Flat,yes
+60,male,Asymptomatic,142,216,normal,normal,110,yes,2.5,Flat,yes
+64,female,Asymptomatic,142,276,normal,normal,140,yes,1.0,Flat,yes
+58,male,Asymptomatic,132,458,high,normal,69,no,1.0,Down,no
+61,male,Asymptomatic,146,241,normal,normal,148,yes,3.0,Down,yes
+67,male,Asymptomatic,160,384,high,ST-abnormality,130,yes,0.0,Flat,yes
+62,male,Asymptomatic,135,297,normal,normal,130,yes,1.0,Flat,yes
+65,male,Asymptomatic,136,248,normal,normal,140,yes,4.0,Down,yes
+63,male,Asymptomatic,130,308,normal,normal,138,yes,2.0,Flat,yes
+69,male,Asymptomatic,140,208,normal,ST-abnormality,140,yes,2.0,Flat,yes
+51,male,Asymptomatic,132,227,high,ST-abnormality,138,no,0.2,Up,no
+62,male,Asymptomatic,158,210,high,normal,112,yes,3.0,Down,yes
+55,male,Non-Anginal Pain,136,245,high,ST-abnormality,131,yes,1.2,Flat,yes
+75,male,Asymptomatic,136,225,normal,normal,112,yes,3.0,Flat,yes
+40,male,Non-Anginal Pain,106,240,normal,normal,80,yes,0.0,Up,no
+67,male,Asymptomatic,120,0,high,normal,150,no,1.5,Down,yes
+58,male,Asymptomatic,110,198,normal,normal,110,no,0.0,Flat,yes
+60,male,Asymptomatic,136,195,normal,normal,126,no,0.3,Up,no
+63,male,Asymptomatic,160,267,high,ST-abnormality,88,yes,2.0,Flat,yes
+35,male,Non-Anginal Pain,123,161,normal,ST-abnormality,153,no,-0.1,Up,no
+62,male,Typical Angina,112,258,normal,ST-abnormality,150,yes,1.3,Flat,yes
+43,male,Asymptomatic,122,0,normal,normal,120,no,0.5,Up,yes
+63,male,Non-Anginal Pain,130,0,high,ST-abnormality,160,no,3.0,Flat,no
+68,male,Non-Anginal Pain,150,195,high,normal,132,no,0.0,Flat,yes
+65,male,Asymptomatic,150,235,normal,normal,120,yes,1.5,Flat,yes
+48,male,Non-Anginal Pain,102,0,high,ST-abnormality,110,yes,1.0,Down,yes
+63,male,Asymptomatic,96,305,normal,ST-abnormality,121,yes,1.0,Up,yes
+64,male,Asymptomatic,130,223,normal,ST-abnormality,128,no,0.5,Flat,no
+61,male,Asymptomatic,120,282,normal,ST-abnormality,135,yes,4.0,Down,yes
+50,male,Asymptomatic,144,349,normal,left ventricular hypertrophy,120,yes,1.0,Up,yes
+59,male,Asymptomatic,124,160,normal,normal,117,yes,1.0,Flat,yes
+55,male,Asymptomatic,150,160,normal,ST-abnormality,150,no,0.0,Up,no
+45,male,Non-Anginal Pain,130,236,normal,normal,144,no,0.1,Up,no
+65,male,Asymptomatic,144,312,normal,left ventricular hypertrophy,113,yes,1.7,Flat,yes
+61,male,Atypical Angina,139,283,normal,normal,135,no,0.3,Up,no
+49,male,Non-Anginal Pain,131,142,normal,normal,127,yes,1.5,Flat,yes
+72,male,Asymptomatic,143,211,normal,normal,109,yes,1.4,Flat,yes
+50,male,Asymptomatic,133,218,normal,normal,128,yes,1.1,Flat,yes
+64,male,Asymptomatic,143,306,high,ST-abnormality,115,yes,1.8,Flat,yes
+55,male,Asymptomatic,116,186,high,ST-abnormality,102,no,0.0,Flat,yes
+63,male,Asymptomatic,110,252,normal,ST-abnormality,140,yes,2.0,Flat,yes
+59,male,Asymptomatic,125,222,normal,normal,135,yes,2.5,Down,yes
+56,male,Asymptomatic,130,0,normal,left ventricular hypertrophy,122,yes,1.0,Flat,yes
+62,male,Non-Anginal Pain,133,0,high,ST-abnormality,119,yes,1.2,Flat,yes
+74,male,Asymptomatic,150,258,high,ST-abnormality,130,yes,4.0,Down,yes
+54,male,Asymptomatic,130,202,high,normal,112,yes,2.0,Flat,yes
+57,male,Asymptomatic,110,197,normal,left ventricular hypertrophy,100,no,0.0,Up,no
+62,male,Non-Anginal Pain,138,204,normal,ST-abnormality,122,yes,1.2,Flat,yes
+76,male,Non-Anginal Pain,104,113,normal,left ventricular hypertrophy,120,no,3.5,Down,yes
+54,female,Asymptomatic,138,274,normal,normal,105,yes,1.5,Flat,yes
+70,male,Asymptomatic,170,192,normal,ST-abnormality,129,yes,3.0,Down,yes
+61,female,Atypical Angina,140,298,high,normal,120,yes,0.0,Up,no
+48,male,Asymptomatic,132,272,normal,ST-abnormality,139,no,0.2,Up,no
+48,male,Non-Anginal Pain,132,220,high,ST-abnormality,162,no,0.0,Flat,yes
+61,male,Typical Angina,142,200,high,ST-abnormality,100,no,1.5,Down,yes
+66,male,Asymptomatic,112,261,normal,normal,140,no,1.5,Up,yes
+68,male,Typical Angina,139,181,high,ST-abnormality,135,no,0.2,Up,no
+55,male,Asymptomatic,172,260,normal,normal,73,no,2.0,Flat,yes
+62,male,Non-Anginal Pain,120,220,normal,left ventricular hypertrophy,86,no,0.0,Up,no
+71,male,Non-Anginal Pain,144,221,normal,normal,108,yes,1.8,Flat,yes
+74,male,Typical Angina,145,216,high,normal,116,yes,1.8,Flat,yes
+53,male,Non-Anginal Pain,155,175,high,ST-abnormality,160,no,0.3,Up,no
+58,male,Non-Anginal Pain,150,219,normal,ST-abnormality,118,yes,0.0,Flat,yes
+75,male,Asymptomatic,160,310,high,normal,112,yes,2.0,Down,no
+56,male,Non-Anginal Pain,137,208,high,ST-abnormality,122,yes,1.8,Flat,yes
+58,male,Non-Anginal Pain,137,232,normal,ST-abnormality,124,yes,1.4,Flat,yes
+64,male,Asymptomatic,134,273,normal,normal,102,yes,4.0,Down,yes
+54,male,Non-Anginal Pain,133,203,normal,ST-abnormality,137,no,0.2,Up,no
+54,male,Atypical Angina,132,182,normal,ST-abnormality,141,no,0.1,Up,no
+59,male,Asymptomatic,140,274,normal,normal,154,yes,2.0,Flat,no
+55,male,Asymptomatic,135,204,high,ST-abnormality,126,yes,1.1,Flat,yes
+57,male,Asymptomatic,144,270,high,ST-abnormality,160,yes,2.0,Flat,yes
+61,male,Asymptomatic,141,292,normal,ST-abnormality,115,yes,1.7,Flat,yes
+41,male,Asymptomatic,150,171,normal,normal,128,yes,1.5,Flat,no
+71,male,Asymptomatic,130,221,normal,ST-abnormality,115,yes,0.0,Flat,yes
+38,male,Asymptomatic,110,289,normal,normal,105,yes,1.5,Down,yes
+55,male,Asymptomatic,158,217,normal,normal,110,yes,2.5,Flat,yes
+56,male,Asymptomatic,128,223,normal,ST-abnormality,119,yes,2.0,Down,yes
+69,male,Asymptomatic,140,110,high,normal,109,yes,1.5,Flat,yes
+64,male,Asymptomatic,150,193,normal,ST-abnormality,135,yes,0.5,Flat,yes
+72,male,Asymptomatic,160,123,high,left ventricular hypertrophy,130,no,1.5,Flat,yes
+69,male,Asymptomatic,142,210,high,ST-abnormality,112,yes,1.5,Flat,yes
+56,male,Asymptomatic,137,282,high,normal,126,yes,1.2,Flat,yes
+62,male,Asymptomatic,139,170,normal,ST-abnormality,120,yes,3.0,Flat,yes
+67,male,Asymptomatic,146,369,normal,normal,110,yes,1.9,Flat,yes
+57,male,Asymptomatic,156,173,normal,left ventricular hypertrophy,119,yes,3.0,Down,yes
+69,male,Asymptomatic,145,289,high,ST-abnormality,110,yes,1.8,Flat,yes
+51,male,Asymptomatic,131,152,high,left ventricular hypertrophy,130,yes,1.0,Flat,yes
+48,male,Asymptomatic,140,208,normal,normal,159,yes,1.5,Up,yes
+69,male,Asymptomatic,122,216,high,left ventricular hypertrophy,84,yes,0.0,Flat,yes
+69,male,Non-Anginal Pain,142,271,normal,left ventricular hypertrophy,126,no,0.3,Up,no
+64,male,Asymptomatic,141,244,high,ST-abnormality,116,yes,1.5,Flat,yes
+57,male,Atypical Angina,180,285,high,ST-abnormality,120,no,0.8,Flat,yes
+53,male,Asymptomatic,124,243,normal,normal,122,yes,2.0,Flat,yes
+37,male,Non-Anginal Pain,118,240,normal,left ventricular hypertrophy,165,no,1.0,Flat,no
+67,male,Asymptomatic,140,219,normal,ST-abnormality,122,yes,2.0,Flat,yes
+74,male,Non-Anginal Pain,140,237,high,normal,94,no,0.0,Flat,yes
+63,male,Atypical Angina,136,165,normal,ST-abnormality,133,no,0.2,Up,no
+58,male,Asymptomatic,100,213,normal,ST-abnormality,110,no,0.0,Up,no
+61,male,Asymptomatic,190,287,high,left ventricular hypertrophy,150,yes,2.0,Down,yes
+64,male,Asymptomatic,130,258,high,left ventricular hypertrophy,130,no,0.0,Flat,yes
+58,male,Asymptomatic,160,256,high,left ventricular hypertrophy,113,yes,1.0,Up,yes
+60,male,Asymptomatic,130,186,high,left ventricular hypertrophy,140,yes,0.5,Flat,yes
+57,male,Asymptomatic,122,264,normal,left ventricular hypertrophy,100,no,0.0,Flat,yes
+55,male,Non-Anginal Pain,133,185,normal,ST-abnormality,136,no,0.2,Up,no
+55,male,Asymptomatic,120,226,normal,left ventricular hypertrophy,127,yes,1.7,Down,yes
+56,male,Asymptomatic,130,203,high,normal,98,no,1.5,Flat,yes
+57,male,Asymptomatic,130,207,normal,ST-abnormality,96,yes,1.0,Flat,no
+61,male,Non-Anginal Pain,140,284,normal,normal,123,yes,1.3,Flat,yes
+61,male,Non-Anginal Pain,120,337,normal,normal,98,yes,0.0,Flat,yes
+74,male,Asymptomatic,155,310,normal,normal,112,yes,1.5,Down,yes
+68,male,Non-Anginal Pain,134,254,high,normal,151,yes,0.0,Up,no
+51,female,Asymptomatic,114,258,high,left ventricular hypertrophy,96,no,1.0,Up,no
+62,male,Asymptomatic,160,254,high,ST-abnormality,108,yes,3.0,Flat,yes
+53,male,Asymptomatic,144,300,high,ST-abnormality,128,yes,1.5,Flat,yes
+62,male,Asymptomatic,158,170,normal,ST-abnormality,138,yes,0.0,Flat,yes
+46,male,Asymptomatic,134,310,normal,normal,126,no,0.0,Flat,yes
+54,female,Asymptomatic,127,333,high,ST-abnormality,154,no,0.0,Flat,yes
+62,male,Typical Angina,135,139,normal,ST-abnormality,137,no,0.2,Up,no
+55,male,Asymptomatic,122,223,high,ST-abnormality,100,no,0.0,Flat,yes
+58,male,Asymptomatic,140,385,high,left ventricular hypertrophy,135,no,0.3,Up,no
+62,male,Atypical Angina,120,254,normal,left ventricular hypertrophy,93,yes,0.0,Flat,yes
+70,male,Asymptomatic,130,322,normal,left ventricular hypertrophy,109,no,2.4,Flat,yes
+67,female,Non-Anginal Pain,115,564,normal,left ventricular hypertrophy,160,no,1.6,Flat,no
+57,male,Atypical Angina,124,261,normal,normal,141,no,0.3,Up,yes
+64,male,Asymptomatic,128,263,normal,normal,105,yes,0.2,Flat,no
+74,female,Atypical Angina,120,269,normal,left ventricular hypertrophy,121,yes,0.2,Up,no
+65,male,Asymptomatic,120,177,normal,normal,140,no,0.4,Up,no
+56,male,Non-Anginal Pain,130,256,high,left ventricular hypertrophy,142,yes,0.6,Flat,yes
+59,male,Asymptomatic,110,239,normal,left ventricular hypertrophy,142,yes,1.2,Flat,yes
+60,male,Asymptomatic,140,293,normal,left ventricular hypertrophy,170,no,1.2,Flat,yes
+63,female,Asymptomatic,150,407,normal,left ventricular hypertrophy,154,no,4.0,Flat,yes
+59,male,Asymptomatic,135,234,normal,normal,161,no,0.5,Flat,no
+53,male,Asymptomatic,142,226,normal,left ventricular hypertrophy,111,yes,0.0,Up,no
+44,male,Non-Anginal Pain,140,235,normal,left ventricular hypertrophy,180,no,0.0,Up,no
+61,male,Typical Angina,134,234,normal,normal,145,no,2.6,Flat,yes
+57,female,Asymptomatic,128,303,normal,left ventricular hypertrophy,159,no,0.0,Up,no
+71,female,Asymptomatic,112,149,normal,normal,125,no,1.6,Flat,no
+46,male,Asymptomatic,140,311,normal,normal,120,yes,1.8,Flat,yes
+53,male,Asymptomatic,140,203,high,left ventricular hypertrophy,155,yes,3.1,Down,yes
+64,male,Typical Angina,110,211,normal,left ventricular hypertrophy,144,yes,1.8,Flat,no
+40,male,Typical Angina,140,199,normal,normal,178,yes,1.4,Up,no
+67,male,Asymptomatic,120,229,normal,left ventricular hypertrophy,129,yes,2.6,Flat,yes
+48,male,Atypical Angina,130,245,normal,left ventricular hypertrophy,180,no,0.2,Flat,no
+43,male,Asymptomatic,115,303,normal,normal,181,no,1.2,Flat,no
+47,male,Asymptomatic,112,204,normal,normal,143,no,0.1,Up,no
+54,female,Atypical Angina,132,288,high,left ventricular hypertrophy,159,yes,0.0,Up,no
+48,female,Non-Anginal Pain,130,275,normal,normal,139,no,0.2,Up,no
+46,female,Asymptomatic,138,243,normal,left ventricular hypertrophy,152,yes,0.0,Flat,no
+51,female,Non-Anginal Pain,120,295,normal,left ventricular hypertrophy,157,no,0.6,Up,no
+58,male,Non-Anginal Pain,112,230,normal,left ventricular hypertrophy,165,no,2.5,Flat,yes
+71,female,Non-Anginal Pain,110,265,high,left ventricular hypertrophy,130,no,0.0,Up,no
+57,male,Non-Anginal Pain,128,229,normal,left ventricular hypertrophy,150,no,0.4,Flat,yes
+66,male,Asymptomatic,160,228,normal,left ventricular hypertrophy,138,no,2.3,Up,no
+37,female,Non-Anginal Pain,120,215,normal,normal,170,no,0.0,Up,no
+59,male,Asymptomatic,170,326,normal,left ventricular hypertrophy,140,yes,3.4,Down,yes
+50,male,Asymptomatic,144,200,normal,left ventricular hypertrophy,126,yes,0.9,Flat,yes
+48,male,Asymptomatic,130,256,high,left ventricular hypertrophy,150,yes,0.0,Up,yes
+61,male,Asymptomatic,140,207,normal,left ventricular hypertrophy,138,yes,1.9,Up,yes
+59,male,Typical Angina,160,273,normal,left ventricular hypertrophy,125,no,0.0,Up,yes
+42,male,Non-Anginal Pain,130,180,normal,normal,150,no,0.0,Up,no
+48,male,Asymptomatic,122,222,normal,left ventricular hypertrophy,186,no,0.0,Up,no
+40,male,Asymptomatic,152,223,normal,normal,181,no,0.0,Up,yes
+62,female,Asymptomatic,124,209,normal,normal,163,no,0.0,Up,no
+44,male,Non-Anginal Pain,130,233,normal,normal,179,yes,0.4,Up,no
+46,male,Atypical Angina,101,197,high,normal,156,no,0.0,Up,no
+59,male,Non-Anginal Pain,126,218,high,normal,134,no,2.2,Flat,yes
+58,male,Non-Anginal Pain,140,211,high,left ventricular hypertrophy,165,no,0.0,Up,no
+49,male,Non-Anginal Pain,118,149,normal,left ventricular hypertrophy,126,no,0.8,Up,yes
+44,male,Asymptomatic,110,197,normal,left ventricular hypertrophy,177,no,0.0,Up,yes
+66,male,Atypical Angina,160,246,normal,normal,120,yes,0.0,Flat,yes
+65,female,Asymptomatic,150,225,normal,left ventricular hypertrophy,114,no,1.0,Flat,yes
+42,male,Asymptomatic,136,315,normal,normal,125,yes,1.8,Flat,yes
+52,male,Atypical Angina,128,205,high,normal,184,no,0.0,Up,no
+65,female,Non-Anginal Pain,140,417,high,left ventricular hypertrophy,157,no,0.8,Up,no
+63,female,Atypical Angina,140,195,normal,normal,179,no,0.0,Up,no
+45,female,Atypical Angina,130,234,normal,left ventricular hypertrophy,175,no,0.6,Flat,no
+41,female,Atypical Angina,105,198,normal,normal,168,no,0.0,Up,no
+61,male,Asymptomatic,138,166,normal,left ventricular hypertrophy,125,yes,3.6,Flat,yes
+60,female,Non-Anginal Pain,120,178,high,normal,96,no,0.0,Up,no
+59,female,Asymptomatic,174,249,normal,normal,143,yes,0.0,Flat,yes
+62,male,Atypical Angina,120,281,normal,left ventricular hypertrophy,103,no,1.4,Flat,yes
+57,male,Non-Anginal Pain,150,126,high,normal,173,no,0.2,Up,no
+51,female,Asymptomatic,130,305,normal,normal,142,yes,1.2,Flat,yes
+44,male,Non-Anginal Pain,120,226,normal,normal,169,no,0.0,Up,no
+60,female,Typical Angina,150,240,normal,normal,171,no,0.9,Up,no
+63,male,Typical Angina,145,233,high,left ventricular hypertrophy,150,no,2.3,Down,no
+57,male,Asymptomatic,150,276,normal,left ventricular hypertrophy,112,yes,0.6,Flat,yes
+51,male,Asymptomatic,140,261,normal,left ventricular hypertrophy,186,yes,0.0,Up,no
+58,female,Atypical Angina,136,319,high,left ventricular hypertrophy,152,no,0.0,Up,yes
+44,female,Non-Anginal Pain,118,242,normal,normal,149,no,0.3,Flat,no
+47,male,Non-Anginal Pain,108,243,normal,normal,152,no,0.0,Up,yes
+61,male,Asymptomatic,120,260,normal,normal,140,yes,3.6,Flat,yes
+57,female,Asymptomatic,120,354,normal,normal,163,yes,0.6,Up,no
+70,male,Atypical Angina,156,245,normal,left ventricular hypertrophy,143,no,0.0,Up,no
+76,female,Non-Anginal Pain,140,197,normal,ST-abnormality,116,no,1.1,Flat,no
+67,female,Asymptomatic,106,223,normal,normal,142,no,0.3,Up,no
+45,male,Asymptomatic,142,309,normal,left ventricular hypertrophy,147,yes,0.0,Flat,yes
+45,male,Asymptomatic,104,208,normal,left ventricular hypertrophy,148,yes,3.0,Flat,no
+39,female,Non-Anginal Pain,94,199,normal,normal,179,no,0.0,Up,no
+42,female,Non-Anginal Pain,120,209,normal,normal,173,no,0.0,Flat,no
+56,male,Atypical Angina,120,236,normal,normal,178,no,0.8,Up,no
+58,male,Asymptomatic,146,218,normal,normal,105,no,2.0,Flat,yes
+35,male,Asymptomatic,120,198,normal,normal,130,yes,1.6,Flat,yes
+58,male,Asymptomatic,150,270,normal,left ventricular hypertrophy,111,yes,0.8,Up,yes
+41,male,Non-Anginal Pain,130,214,normal,left ventricular hypertrophy,168,no,2.0,Flat,no
+57,male,Asymptomatic,110,201,normal,normal,126,yes,1.5,Flat,no
+42,male,Typical Angina,148,244,normal,left ventricular hypertrophy,178,no,0.8,Up,no
+62,male,Atypical Angina,128,208,high,left ventricular hypertrophy,140,no,0.0,Up,no
+59,male,Typical Angina,178,270,normal,left ventricular hypertrophy,145,no,4.2,Down,no
+41,female,Atypical Angina,126,306,normal,normal,163,no,0.0,Up,no
+50,male,Asymptomatic,150,243,normal,left ventricular hypertrophy,128,no,2.6,Flat,yes
+59,male,Atypical Angina,140,221,normal,normal,164,yes,0.0,Up,no
+61,female,Asymptomatic,130,330,normal,left ventricular hypertrophy,169,no,0.0,Up,yes
+54,male,Asymptomatic,124,266,normal,left ventricular hypertrophy,109,yes,2.2,Flat,yes
+54,male,Asymptomatic,110,206,normal,left ventricular hypertrophy,108,yes,0.0,Flat,yes
+52,male,Asymptomatic,125,212,normal,normal,168,no,1.0,Up,yes
+47,male,Asymptomatic,110,275,normal,left ventricular hypertrophy,118,yes,1.0,Flat,yes
+66,male,Asymptomatic,120,302,normal,left ventricular hypertrophy,151,no,0.4,Flat,no
+58,male,Asymptomatic,100,234,normal,normal,156,no,0.1,Up,yes
+64,female,Non-Anginal Pain,140,313,normal,normal,133,no,0.2,Up,no
+50,female,Atypical Angina,120,244,normal,normal,162,no,1.1,Up,no
+44,female,Non-Anginal Pain,108,141,normal,normal,175,no,0.6,Flat,no
+67,male,Asymptomatic,120,237,normal,normal,71,no,1.0,Flat,yes
+49,female,Asymptomatic,130,269,normal,normal,163,no,0.0,Up,no
+57,male,Asymptomatic,165,289,high,left ventricular hypertrophy,124,no,1.0,Flat,yes
+63,male,Asymptomatic,130,254,normal,left ventricular hypertrophy,147,no,1.4,Flat,yes
+48,male,Asymptomatic,124,274,normal,left ventricular hypertrophy,166,no,0.5,Flat,yes
+51,male,Non-Anginal Pain,100,222,normal,normal,143,yes,1.2,Flat,no
+60,female,Asymptomatic,150,258,normal,left ventricular hypertrophy,157,no,2.6,Flat,yes
+59,male,Asymptomatic,140,177,normal,normal,162,yes,0.0,Up,yes
+45,female,Atypical Angina,112,160,normal,normal,138,no,0.0,Flat,no
+55,female,Asymptomatic,180,327,normal,ST-abnormality,117,yes,3.4,Flat,yes
+41,male,Atypical Angina,110,235,normal,normal,153,no,0.0,Up,no
+60,female,Asymptomatic,158,305,normal,left ventricular hypertrophy,161,no,0.0,Up,yes
+54,female,Non-Anginal Pain,135,304,high,normal,170,no,0.0,Up,no
+42,male,Atypical Angina,120,295,normal,normal,162,no,0.0,Up,no
+49,female,Atypical Angina,134,271,normal,normal,162,no,0.0,Flat,no
+46,male,Asymptomatic,120,249,normal,left ventricular hypertrophy,144,no,0.8,Up,yes
+56,female,Asymptomatic,200,288,high,left ventricular hypertrophy,133,yes,4.0,Down,yes
+66,female,Typical Angina,150,226,normal,normal,114,no,2.6,Down,no
+56,male,Asymptomatic,130,283,high,left ventricular hypertrophy,103,yes,1.6,Down,yes
+49,male,Non-Anginal Pain,120,188,normal,normal,139,no,2.0,Flat,yes
+54,male,Asymptomatic,122,286,normal,left ventricular hypertrophy,116,yes,3.2,Flat,yes
+57,male,Asymptomatic,152,274,normal,normal,88,yes,1.2,Flat,yes
+65,female,Non-Anginal Pain,160,360,normal,left ventricular hypertrophy,151,no,0.8,Up,no
+54,male,Non-Anginal Pain,125,273,normal,left ventricular hypertrophy,152,no,0.5,Down,no
+54,female,Non-Anginal Pain,160,201,normal,normal,163,no,0.0,Up,no
+62,male,Asymptomatic,120,267,normal,normal,99,yes,1.8,Flat,yes
+52,female,Non-Anginal Pain,136,196,normal,left ventricular hypertrophy,169,no,0.1,Flat,no
+52,male,Atypical Angina,134,201,normal,normal,158,no,0.8,Up,no
+60,male,Asymptomatic,117,230,high,normal,160,yes,1.4,Up,yes
+63,female,Asymptomatic,108,269,normal,normal,169,yes,1.8,Flat,yes
+66,male,Asymptomatic,112,212,normal,left ventricular hypertrophy,132,yes,0.1,Up,yes
+42,male,Asymptomatic,140,226,normal,normal,178,no,0.0,Up,no
+64,male,Asymptomatic,120,246,normal,left ventricular hypertrophy,96,yes,2.2,Down,yes
+54,male,Non-Anginal Pain,150,232,normal,left ventricular hypertrophy,165,no,1.6,Up,no
+46,female,Non-Anginal Pain,142,177,normal,left ventricular hypertrophy,160,yes,1.4,Down,no
+67,female,Non-Anginal Pain,152,277,normal,normal,172,no,0.0,Up,no
+56,male,Asymptomatic,125,249,high,left ventricular hypertrophy,144,yes,1.2,Flat,yes
+34,female,Atypical Angina,118,210,normal,normal,192,no,0.7,Up,no
+57,male,Asymptomatic,132,207,normal,normal,168,yes,0.0,Up,no
+64,male,Asymptomatic,145,212,normal,left ventricular hypertrophy,132,no,2.0,Flat,yes
+59,male,Asymptomatic,138,271,normal,left ventricular hypertrophy,182,no,0.0,Up,no
+50,male,Non-Anginal Pain,140,233,normal,normal,163,no,0.6,Flat,yes
+51,male,Typical Angina,125,213,normal,left ventricular hypertrophy,125,yes,1.4,Up,no
+54,male,Atypical Angina,192,283,normal,left ventricular hypertrophy,195,no,0.0,Up,yes
+53,male,Asymptomatic,123,282,normal,normal,95,yes,2.0,Flat,yes
+52,male,Asymptomatic,112,230,normal,normal,160,no,0.0,Up,yes
+40,male,Asymptomatic,110,167,normal,left ventricular hypertrophy,114,yes,2.0,Flat,yes
+58,male,Non-Anginal Pain,132,224,normal,left ventricular hypertrophy,173,no,3.2,Up,yes
+41,female,Non-Anginal Pain,112,268,normal,left ventricular hypertrophy,172,yes,0.0,Up,no
+41,male,Non-Anginal Pain,112,250,normal,normal,179,no,0.0,Up,no
+50,female,Non-Anginal Pain,120,219,normal,normal,158,no,1.6,Flat,no
+54,female,Non-Anginal Pain,108,267,normal,left ventricular hypertrophy,167,no,0.0,Up,no
+64,female,Asymptomatic,130,303,normal,normal,122,no,2.0,Flat,no
+51,female,Non-Anginal Pain,130,256,normal,left ventricular hypertrophy,149,no,0.5,Up,no
+46,female,Atypical Angina,105,204,normal,normal,172,no,0.0,Up,no
+55,male,Asymptomatic,140,217,normal,normal,111,yes,5.6,Down,yes
+45,male,Atypical Angina,128,308,normal,left ventricular hypertrophy,170,no,0.0,Up,no
+56,male,Typical Angina,120,193,normal,left ventricular hypertrophy,162,no,1.9,Flat,no
+66,female,Asymptomatic,178,228,high,normal,165,yes,1.0,Flat,yes
+38,male,Typical Angina,120,231,normal,normal,182,yes,3.8,Flat,yes
+62,female,Asymptomatic,150,244,normal,normal,154,yes,1.4,Flat,yes
+55,male,Atypical Angina,130,262,normal,normal,155,no,0.0,Up,no
+58,male,Asymptomatic,128,259,normal,left ventricular hypertrophy,130,yes,3.0,Flat,yes
+43,male,Asymptomatic,110,211,normal,normal,161,no,0.0,Up,no
+64,female,Asymptomatic,180,325,normal,normal,154,yes,0.0,Up,no
+50,female,Asymptomatic,110,254,normal,left ventricular hypertrophy,159,no,0.0,Up,no
+53,male,Non-Anginal Pain,130,197,high,left ventricular hypertrophy,152,no,1.2,Down,no
+45,female,Asymptomatic,138,236,normal,left ventricular hypertrophy,152,yes,0.2,Flat,no
+65,male,Typical Angina,138,282,high,left ventricular hypertrophy,174,no,1.4,Flat,yes
+69,male,Typical Angina,160,234,high,left ventricular hypertrophy,131,no,0.1,Flat,no
+69,male,Non-Anginal Pain,140,254,normal,left ventricular hypertrophy,146,no,2.0,Flat,yes
+67,male,Asymptomatic,100,299,normal,left ventricular hypertrophy,125,yes,0.9,Flat,yes
+68,female,Non-Anginal Pain,120,211,normal,left ventricular hypertrophy,115,no,1.5,Flat,no
+34,male,Typical Angina,118,182,normal,left ventricular hypertrophy,174,no,0.0,Up,no
+62,female,Asymptomatic,138,294,high,normal,106,no,1.9,Flat,yes
+51,male,Asymptomatic,140,298,normal,normal,122,yes,4.2,Flat,yes
+46,male,Non-Anginal Pain,150,231,normal,normal,147,no,3.6,Flat,yes
+67,male,Asymptomatic,125,254,high,normal,163,no,0.2,Flat,yes
+50,male,Non-Anginal Pain,129,196,normal,normal,163,no,0.0,Up,no
+42,male,Non-Anginal Pain,120,240,high,normal,194,no,0.8,Down,no
+56,female,Asymptomatic,134,409,normal,left ventricular hypertrophy,150,yes,1.9,Flat,yes
+41,male,Asymptomatic,110,172,normal,left ventricular hypertrophy,158,no,0.0,Up,yes
+42,female,Asymptomatic,102,265,normal,left ventricular hypertrophy,122,no,0.6,Flat,no
+53,male,Non-Anginal Pain,130,246,high,left ventricular hypertrophy,173,no,0.0,Up,no
+43,male,Non-Anginal Pain,130,315,normal,normal,162,no,1.9,Up,no
+56,male,Asymptomatic,132,184,normal,left ventricular hypertrophy,105,yes,2.1,Flat,yes
+52,male,Asymptomatic,108,233,high,normal,147,no,0.1,Up,no
+62,female,Asymptomatic,140,394,normal,left ventricular hypertrophy,157,no,1.2,Flat,no
+70,male,Non-Anginal Pain,160,269,normal,normal,112,yes,2.9,Flat,yes
+54,male,Asymptomatic,140,239,normal,normal,160,no,1.2,Up,no
+70,male,Asymptomatic,145,174,normal,normal,125,yes,2.6,Down,yes
+54,male,Atypical Angina,108,309,normal,normal,156,no,0.0,Up,no
+35,male,Asymptomatic,126,282,normal,left ventricular hypertrophy,156,yes,0.0,Up,yes
+48,male,Non-Anginal Pain,124,255,high,normal,175,no,0.0,Up,no
+55,female,Atypical Angina,135,250,normal,left ventricular hypertrophy,161,no,1.4,Flat,no
+58,female,Asymptomatic,100,248,normal,left ventricular hypertrophy,122,no,1.0,Flat,no
+54,female,Non-Anginal Pain,110,214,normal,normal,158,no,1.6,Flat,no
+69,female,Typical Angina,140,239,normal,normal,151,no,1.8,Up,no
+77,male,Asymptomatic,125,304,normal,left ventricular hypertrophy,162,yes,0.0,Up,yes
+68,male,Non-Anginal Pain,118,277,normal,normal,151,no,1.0,Up,no
+58,male,Asymptomatic,125,300,normal,left ventricular hypertrophy,171,no,0.0,Up,yes
+60,male,Asymptomatic,125,258,normal,left ventricular hypertrophy,141,yes,2.8,Flat,yes
+51,male,Asymptomatic,140,299,normal,normal,173,yes,1.6,Up,yes
+55,male,Asymptomatic,160,289,normal,left ventricular hypertrophy,145,yes,0.8,Flat,yes
+52,male,Typical Angina,152,298,high,normal,178,no,1.2,Flat,no
+60,female,Non-Anginal Pain,102,318,normal,normal,160,no,0.0,Up,no
+58,male,Non-Anginal Pain,105,240,normal,left ventricular hypertrophy,154,yes,0.6,Flat,no
+64,male,Non-Anginal Pain,125,309,normal,normal,131,yes,1.8,Flat,yes
+37,male,Non-Anginal Pain,130,250,normal,normal,187,no,3.5,Down,no
+59,male,Typical Angina,170,288,normal,left ventricular hypertrophy,159,no,0.2,Flat,yes
+51,male,Non-Anginal Pain,125,245,high,left ventricular hypertrophy,166,no,2.4,Flat,no
+43,female,Non-Anginal Pain,122,213,normal,normal,165,no,0.2,Flat,no
+58,male,Asymptomatic,128,216,normal,left ventricular hypertrophy,131,yes,2.2,Flat,yes
+29,male,Atypical Angina,130,204,normal,left ventricular hypertrophy,202,no,0.0,Up,no
+41,female,Atypical Angina,130,204,normal,left ventricular hypertrophy,172,no,1.4,Up,no
+63,female,Non-Anginal Pain,135,252,normal,left ventricular hypertrophy,172,no,0.0,Up,no
+51,male,Non-Anginal Pain,94,227,normal,normal,154,yes,0.0,Up,no
+54,male,Non-Anginal Pain,120,258,normal,left ventricular hypertrophy,147,no,0.4,Flat,no
+44,male,Atypical Angina,120,220,normal,normal,170,no,0.0,Up,no
+54,male,Asymptomatic,110,239,normal,normal,126,yes,2.8,Flat,yes
+65,male,Asymptomatic,135,254,normal,left ventricular hypertrophy,127,no,2.8,Flat,yes
+57,male,Non-Anginal Pain,150,168,normal,normal,174,no,1.6,Up,no
+63,male,Asymptomatic,130,330,high,left ventricular hypertrophy,132,yes,1.8,Up,yes
+35,female,Asymptomatic,138,183,normal,normal,182,no,1.4,Up,no
+41,male,Atypical Angina,135,203,normal,normal,132,no,0.0,Flat,no
+62,female,Non-Anginal Pain,130,263,normal,normal,97,no,1.2,Flat,yes
+43,female,Asymptomatic,132,341,high,left ventricular hypertrophy,136,yes,3.0,Flat,yes
+58,female,Typical Angina,150,283,high,left ventricular hypertrophy,162,no,1.0,Up,no
+52,male,Typical Angina,118,186,normal,left ventricular hypertrophy,190,no,0.0,Flat,no
+61,female,Asymptomatic,145,307,normal,left ventricular hypertrophy,146,yes,1.0,Flat,yes
+39,male,Asymptomatic,118,219,normal,normal,140,no,1.2,Flat,yes
+45,male,Asymptomatic,115,260,normal,left ventricular hypertrophy,185,no,0.0,Up,no
+52,male,Asymptomatic,128,255,normal,normal,161,yes,0.0,Up,yes
+62,male,Non-Anginal Pain,130,231,normal,normal,146,no,1.8,Flat,no
+62,female,Asymptomatic,160,164,normal,left ventricular hypertrophy,145,no,6.2,Down,yes
+53,female,Asymptomatic,138,234,normal,left ventricular hypertrophy,160,no,0.0,Up,no
+43,male,Asymptomatic,120,177,normal,left ventricular hypertrophy,120,yes,2.5,Flat,yes
+47,male,Non-Anginal Pain,138,257,normal,left ventricular hypertrophy,156,no,0.0,Up,no
+52,male,Atypical Angina,120,325,normal,normal,172,no,0.2,Up,no
+68,male,Non-Anginal Pain,180,274,high,left ventricular hypertrophy,150,yes,1.6,Flat,yes
+39,male,Non-Anginal Pain,140,321,normal,left ventricular hypertrophy,182,no,0.0,Up,no
+53,female,Asymptomatic,130,264,normal,left ventricular hypertrophy,143,no,0.4,Flat,no
+62,female,Asymptomatic,140,268,normal,left ventricular hypertrophy,160,no,3.6,Down,yes
+51,female,Non-Anginal Pain,140,308,normal,left ventricular hypertrophy,142,no,1.5,Up,no
+60,male,Asymptomatic,130,253,normal,normal,144,yes,1.4,Up,yes
+65,male,Asymptomatic,110,248,normal,left ventricular hypertrophy,158,no,0.6,Up,yes
+65,female,Non-Anginal Pain,155,269,normal,normal,148,no,0.8,Up,no
+60,male,Non-Anginal Pain,140,185,normal,left ventricular hypertrophy,155,no,3.0,Flat,yes
+60,male,Asymptomatic,145,282,normal,left ventricular hypertrophy,142,yes,2.8,Flat,yes
+54,male,Asymptomatic,120,188,normal,normal,113,no,1.4,Flat,yes
+44,male,Atypical Angina,130,219,normal,left ventricular hypertrophy,188,no,0.0,Up,no
+44,male,Asymptomatic,112,290,normal,left ventricular hypertrophy,153,no,0.0,Up,yes
+51,male,Non-Anginal Pain,110,175,normal,normal,123,no,0.6,Up,no
+59,male,Non-Anginal Pain,150,212,high,normal,157,no,1.6,Up,no
+71,female,Atypical Angina,160,302,normal,normal,162,no,0.4,Up,no
+61,male,Non-Anginal Pain,150,243,high,normal,137,yes,1.0,Flat,no
+55,male,Asymptomatic,132,353,normal,normal,132,yes,1.2,Flat,yes
+64,male,Non-Anginal Pain,140,335,normal,normal,158,no,0.0,Up,yes
+43,male,Asymptomatic,150,247,normal,normal,171,no,1.5,Up,no
+58,female,Non-Anginal Pain,120,340,normal,normal,172,no,0.0,Up,no
+60,male,Asymptomatic,130,206,normal,left ventricular hypertrophy,132,yes,2.4,Flat,yes
+58,male,Atypical Angina,120,284,normal,left ventricular hypertrophy,160,no,1.8,Flat,yes
+49,male,Atypical Angina,130,266,normal,normal,171,no,0.6,Up,no
+48,male,Atypical Angina,110,229,normal,normal,168,no,1.0,Down,yes
+52,male,Non-Anginal Pain,172,199,high,normal,162,no,0.5,Up,no
+44,male,Atypical Angina,120,263,normal,normal,173,no,0.0,Up,no
+56,female,Atypical Angina,140,294,normal,left ventricular hypertrophy,153,no,1.3,Flat,no
+57,male,Asymptomatic,140,192,normal,normal,148,no,0.4,Flat,no
+67,male,Asymptomatic,160,286,normal,left ventricular hypertrophy,108,yes,1.5,Flat,yes
+53,female,Non-Anginal Pain,128,216,normal,left ventricular hypertrophy,115,no,0.0,Up,no
+52,male,Non-Anginal Pain,138,223,normal,normal,169,no,0.0,Up,no
+43,male,Asymptomatic,132,247,high,left ventricular hypertrophy,143,yes,0.1,Flat,yes
+52,male,Asymptomatic,128,204,high,normal,156,yes,1.0,Flat,yes
+59,male,Typical Angina,134,204,normal,normal,162,no,0.8,Up,yes
+64,male,Typical Angina,170,227,normal,left ventricular hypertrophy,155,no,0.6,Flat,no
+66,female,Non-Anginal Pain,146,278,normal,left ventricular hypertrophy,152,no,0.0,Flat,no
+39,female,Non-Anginal Pain,138,220,normal,normal,152,no,0.0,Flat,no
+57,male,Atypical Angina,154,232,normal,left ventricular hypertrophy,164,no,0.0,Up,yes
+58,female,Asymptomatic,130,197,normal,normal,131,no,0.6,Flat,no
+57,male,Asymptomatic,110,335,normal,normal,143,yes,3.0,Flat,yes
+47,male,Non-Anginal Pain,130,253,normal,normal,179,no,0.0,Up,no
+55,female,Asymptomatic,128,205,normal,ST-abnormality,130,yes,2.0,Flat,yes
+35,male,Atypical Angina,122,192,normal,normal,174,no,0.0,Up,no
+61,male,Asymptomatic,148,203,normal,normal,161,no,0.0,Up,yes
+58,male,Asymptomatic,114,318,normal,ST-abnormality,140,no,4.4,Down,yes
+58,female,Asymptomatic,170,225,high,left ventricular hypertrophy,146,yes,2.8,Flat,yes
+58,male,Atypical Angina,125,220,normal,normal,144,no,0.4,Flat,no
+56,male,Atypical Angina,130,221,normal,left ventricular hypertrophy,163,no,0.0,Up,no
+56,male,Atypical Angina,120,240,normal,normal,169,no,0.0,Down,no
+67,male,Non-Anginal Pain,152,212,normal,left ventricular hypertrophy,150,no,0.8,Flat,yes
+55,female,Atypical Angina,132,342,normal,normal,166,no,1.2,Up,no
+44,male,Asymptomatic,120,169,normal,normal,144,yes,2.8,Down,yes
+63,male,Asymptomatic,140,187,normal,left ventricular hypertrophy,144,yes,4.0,Up,yes
+63,female,Asymptomatic,124,197,normal,normal,136,yes,0.0,Flat,yes
+41,male,Atypical Angina,120,157,normal,normal,182,no,0.0,Up,no
+59,male,Asymptomatic,164,176,high,left ventricular hypertrophy,90,no,1.0,Flat,yes
+57,female,Asymptomatic,140,241,normal,normal,123,yes,0.2,Flat,yes
+45,male,Typical Angina,110,264,normal,normal,132,no,1.2,Flat,yes
+68,male,Asymptomatic,144,193,high,normal,141,no,3.4,Flat,yes
+57,male,Asymptomatic,130,131,normal,normal,115,yes,1.2,Flat,yes
+57,female,Atypical Angina,130,236,normal,left ventricular hypertrophy,174,no,0.0,Flat,yes
+38,male,Non-Anginal Pain,138,175,normal,normal,173,no,0.0,Up,no
