@@ -87,7 +87,8 @@ def make_indicator(title, value):
     Input("url","pathname")
 ])
 def initial(v):
-    df = pd.read_csv('data/heart_disease_cleaned.csv')
+    df = pd.read_csv('./data/heart_disease_cleaned.csv')
+    
     total_healthy_patient=df[df.heartdisease == "no"].shape[0]
     total_unhealthy_patient=df[df.heartdisease == "yes"].shape[0]
     fig_age= px.histogram(df, x='age', nbins=40, title='Age Distribution of Patients',template='simple_white',color_discrete_sequence=["rgba(47, 47, 226, 0.647)"])
@@ -96,7 +97,7 @@ def initial(v):
     chest_type_counts=df.chestpaintype.value_counts().reset_index()
 
 
-    fig_chest=px.bar(chest_type_counts,x='chestpaintype',y='count',title="Chest type Distrebution", template='simple_white',color_discrete_sequence=["rgba(47, 47, 226, 0.647)"])
+    fig_chest=px.bar(chest_type_counts,x='chestpaintype',y='count',title="Chest Pain type Distrebution", template='simple_white',color_discrete_sequence=["rgba(47, 47, 226, 0.647)"])
     fig_chest.update_layout( title_font=dict(size=18, color='gray'),yaxis={"title":""},xaxis={'title':""})
 
     fig_chol= px.histogram(df, x='cholesterol', nbins=40, title='Cholesterol Distrebution of Patients',template='simple_white',color_discrete_sequence=["rgba(47, 47, 226, 0.647)"])
