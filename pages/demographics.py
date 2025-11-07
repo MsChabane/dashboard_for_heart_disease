@@ -79,7 +79,7 @@ def initial(v):
     sex_hds_fig= px.bar(df,x='sex',color='heartdisease',barmode='group',color_discrete_sequence=["#a3e6bc","#e33030"],template='simple_white',title='Distrebution of Sex by heartdisease')
     sex_hds_fig.update_layout( title_font=dict(size=18, color='gray'),yaxis={"title":""},xaxis={'title':""})
     
-    age_violin_=px.violin(df,x='sex',y='age',color='heartdisease',width=500,color_discrete_sequence=["#a3e6bc","#e33030"],template='simple_white',title='Distrebution of age by sex and heartdisease')
+    age_violin_=px.violin(df,x='sex',y='age',color='heartdisease',color_discrete_sequence=["#a3e6bc","#e33030"],template='simple_white',title='Distrebution of age by sex and heartdisease')
     age_violin_.update_layout( title_font=dict(size=18, color='gray'),yaxis={"title":""},xaxis={'title':""})
     
     return (
