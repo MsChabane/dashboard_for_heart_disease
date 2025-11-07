@@ -35,7 +35,8 @@ def toggle_offcanvas(n1, is_open):
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host='0.0.0.0')
+
 
 
 
